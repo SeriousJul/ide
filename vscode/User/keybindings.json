@@ -1,0 +1,25 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+	{
+		"key": "ctrl+shift+s",
+		"command": "workbench.action.files.saveAll"
+	},
+	{
+		"key": "ctrl+d",
+		"command": "editor.action.deleteLines",
+		"when": "editorTextFocus"
+	},
+	{
+		"key": "ctrl+shift+c",
+		"command": "editor.action.commentLine",
+		"when": "editorTextFocus"
+	},
+	// {
+	// 	"key": "ctrl+alt+t",
+	// 	"command": "startanyshell.startShell"
+	// },
+	{
+		"key": "ctrl+alt+shift+t",
+		"command": "workbench.action.terminal.openNativeConsole"
+	}
+]

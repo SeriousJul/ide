@@ -1,0 +1,204 @@
+{
+	/*
+	 // Place your snippets for JavaScript here. Each snippet is defined under a snippet name and has a prefix, body and
+	 // description. The prefix is what is used to trigger the snippet and the body will be expanded and inserted. Possible variables are:
+	 // $1, $2 for tab stops, ${id} and ${id:label} and ${1:label} for variables. Variables with the same id are connected.
+	 // Example:
+	 "Print to console": {
+		"prefix": "log",
+		"body": [
+			"console.log('$1');",
+			"$2"
+		],
+		"description": "Log output to console"
+	}
+*/
+	"ngModule": {
+		"prefix": "ngModule",
+		"body": [
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular.module('${module}', []);",
+			"})();",
+			""
+		]
+	},
+	"ngController": {
+		"prefix": "ngController",
+		"body": [
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular",
+			"\t\t.module('${module}')",
+			"\t\t.controller('${ctrl}Controller', ${ctrl}Controller);",
+			"",
+			"\t${ctrl}Controller.$inject = [];",
+			"\tfunction ${ctrl}Controller() {",
+			"\t\tvar vm = this;",
+			"",
+			"\t\tvm.init = function (){}",
+			"",
+			"\t\tvm.init();",
+			"\t}",
+			"",
+			"})();",
+			""
+		]
+	},
+	"ngService": {
+		"prefix": "ngService",
+		"body": [
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular",
+			"\t\t.module('${module}')",
+			"\t\t.service('${service}', ${service});",
+			"",
+			"\t${service}.$inject = [];",
+			"\tfunction ${service}() {",
+			"\t\tfunction ${exposedFn}() { }",
+			"",
+			"\t\tthis.${exposedFn} = ${exposedFn};",
+			"",
+			"\t}",
+			"})();"
+		]
+	},
+	"ngFactory": {
+		"prefix": "ngFactory",
+		"body": [
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular",
+			"\t\t.module('${module}')",
+			"\t\t.factory('${service}', ${service});",
+			"",
+			"\t${service}.$inject = [];",
+			"\tfunction ${service}() {",
+			"",
+			"\t\tvar service = {",
+			"\t\t\t${exposedFn}: ${exposedFn}",
+			"\t\t};",
+			"\t\treturn service;",
+			"",
+			"\t\tfunction ${exposedFn}() { }",
+			"\t}",
+			"})();"
+		]
+	},
+	"ngProvider": {
+		"prefix": "ngProvider",
+		"body": [
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular",
+			"\t\t.module('${module}')",
+			"\t\t.provider('${service}Provider', ${service}Provider);",
+			"",
+			"\t${service}Provider.$inject = [];",
+			"\tfunction ${service}Provider() {",
+			"",
+			"\t\tthis.myProperty = null;",
+			"",
+			"\t\tthis.$get = [function ${service}() {",
+			"\t\t\tvar service = {",
+			"\t\t\t\toptions: { myProperty: myProperty },",
+			"\t\t\t\t${exposedFn}: ${exposedFn}",
+			"\t\t\t};",
+			"\t\t\treturn service;",
+			"",
+			"\t\t\tfunction ${exposedFn}() { }",
+			"\t\t}]",
+			"\t}",
+			"})();"
+		]
+	},
+	"ngDirective": {
+		"prefix": "ngDirective",
+		"body": [
+			"//https://docs.angularjs.org/api/ng/service/$compile",
+			"(function () {",
+			"\t'use strict';",
+			"",
+			"\tangular",
+			"\t\t.module('${Module}')",
+			"\t\t.directive('${directive}', ${directive});",
+			"",
+			"\t${directive}.$inject = [];",
+			"\tfunction ${directive}() {",
+			"\t\t//Default value commented out",
+			"\t\tvar directive = {",
+			"\t\t\t//require: [], // ['^parentDirectiveName', '?optionalDirectiveName', '?^optionalParent'],",
+			"\t\t\t//priority: 0,",
+			"\t\t\ttemplate: '<div>Coucou</div>', // or // function(tElement, tAttrs) { ... },",
+			"\t\t\t//templateUrl: 'relative/path/for/$templateCache', // or // function(tElement, tAttrs) { ... },",
+			"\t\t\t//transclude: false,",
+			"\t\t\trestrict: 'A',",
+			"\t\t\t//templateNamespace: 'html',",
+			"\t\t\tbindToController: true,",
+			"\t\t\tcontroller: ${directive}Controller,",
+			"\t\t\tcontrollerAs: '${vm}',",
+			"\t\t\tlink: postLink,",
+			"\t\t\t// or",
+			"\t\t\t// link: {",
+			"\t\t\t//  pre: function preLink(scope, iElement, iAttrs, controller) { ... },",
+			"\t\t\t//  post: function postLink(scope, iElement, iAttrs, controller) { ... }",
+			"\t\t\t// }",
+			"\t\t\tscope: {",
+			"\t\t\t}",
+			"\t\t};",
+			"\t\treturn directive;",
+			"\t\t",
+			"\t\tfunction postLink(scope, element, attrs) {",
+			"\t\t}",
+			"\t}",
+			"",
+			"\t${directive}Controller.$inject = [];",
+			"\tfunction ${directive}Controller() {",
+			"\t\t$0",
+			"\t}",
+			"})();"
+		]
+	},
+	"ngHttp": {
+		"prefix": "ngHttp",
+		"body": [
+			"//https://docs.angularjs.org/api/ng/service/$http",
+			"function ${name}() {",
+			"\t//Default value commented out",
+			"\tvar request = {",
+			"\t\tmethod: '${GET}',",
+			"\t\turl: 'https://some.url'",
+			"\t\t//params: {}, //for GET",
+			"\t\t//data: {}, //For others",
+			"\t\t//headers: {",
+			"\t\t\t//'Content-Type': undefined //explicitly remove the header",
+			"\t\t//},",
+			"\t\t//eventHandlers: eventHandlers",
+			"\t\t//uploadEventHandlers : uploadEventHandlers ",
+			"\t\t//transformRequest: $http.defaults.transformRequest,// {function(data, headersGetter)|Array.<function(data, headersGetter)>}",
+			"\t\t//transformResponse: $http.defaults.transformResponse,// {function(data, headersGetter, status)|Array.<function(data, headersGetter, status)>}",
+			"\t\t//paramSerializer :  $httpParamSerializer,// {string|function(Object<string,string>):string}",
+			"\t\t//cache: false,",
+			"\t\t//timeout: 0,",
+			"\t\t//responseType: 'json', //https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/responseType",
+			"\t};",
+			"",
+			"\tvar promise = $http(request);",
+			"\tpromise.catch(function (result) {",
+			"\t\t$log.error(result);",
+			"\t\treturn $q.reject(result);",
+			"\t});",
+			"\treturn promise.then(function (result) {",
+			"\t\t$log.log(result);",
+			"\t\treturn result.data;",
+			"\t});",
+			"}"
+		]
+	}
+}

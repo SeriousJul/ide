@@ -1,0 +1,60 @@
+// Place your settings in this file to overwrite the default settings
+{
+	"files.trimTrailingWhitespace": true,
+	"editor.formatOnType": true,
+	"explorer.workingFiles.maxVisible": 20,
+	"http.proxy": "http://xpxiap.inprod.ept.lu:8080",
+    "http.proxyStrictSSL": false,
+    // "https.proxy": "http://xpxiap.inprod.ept.lu:8080",
+    // "https.proxyStrictSSL": false,
+    "editor.wrappingColumn": 140,
+	"editor.fontSize": 13,
+	"files.exclude": {
+		"**/.git": true,
+		"**/.DS_Store": true
+	},
+    "search.exclude": {
+		"**/node_modules": true,
+		"**/bower_components" : true,
+		"**/.html" : true,
+		"**/.tmp" : true,
+		"**/dist" : true,
+		"**/typings" : true
+	},
+    "telemetry.enableCrashReporter": false,
+    // Shell commands, see default for examples.
+    "startanyshell.shells": [
+        {
+            "description": "Windows Command Prompt",
+            "command": "start \"%description%\" /WAIT %comspec%"
+        },
+        {
+            "description": "Git Bash 2",
+            "command": "\"C:\\Tools\\Git\\git-bash.exe\" \"--cd=%path%\""
+        },
+        {
+            "description": "Windows Powershell",
+            "command": "start \"%description%\" powershell.exe -noexit"
+        },
+        {
+            "description": "Cmder",
+            "command": "\"C:\\Tools\\cmder_mini\\cmder.exe\" /single \"%path%\""
+        }
+    ],
+    "editor.glyphMargin": true,
+    "window.reopenFolders": "one",
+    // Indent <head> and <body> sections.
+    "html.format.indentInnerHtml": true,
+
+    // Whether existing line breaks before elements should be preserved. Only works before elements, not inside tags or for text.
+    "html.format.preserveNewLines": true,
+
+    // Maximum number of line breaks to be preserved in one chunk. Use 'null' for unlimited.
+    "html.format.maxPreserveNewLines": 2,
+
+    // Format and indent {{#foo}} and {{/foo}}.
+    "html.format.indentHandlebars": true,
+    "npm-intellisense.scanDevDependencies": true,
+    "telemetry.enableTelemetry": false,
+    "html.format.wrapLineLength": 0
+}
