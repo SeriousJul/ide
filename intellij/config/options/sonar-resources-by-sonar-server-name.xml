@@ -1,0 +1,237 @@
+<application>
+  <component name="sonar-resources-application-component">
+    <option name="sonarResourcesBySonarServerName">
+      <map>
+        <entry key="AMD Sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1463722776000" />
+                <option name="date" value="1467797803000" />
+                <option name="id" value="272" />
+                <option name="key" value="amdpic-fe" />
+                <option name="longName" value="AMDPIC UI" />
+                <option name="name" value="AMDPIC UI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226493000" />
+                <option name="date" value="1468241298000" />
+                <option name="description" value="The common library without Spring Framework, after Spring comes the Summer !" />
+                <option name="id" value="1270" />
+                <option name="key" value="lu.post.common:common-summer" />
+                <option name="longName" value="Common Summer" />
+                <option name="name" value="Common Summer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468241298000" />
+                <option name="description" value="Generic messaging tools for translations, templates, mailing" />
+                <option name="id" value="1271" />
+                <option name="key" value="lu.post.common:common-messaging" />
+                <option name="longName" value="Generic messaging tools" />
+                <option name="name" value="Generic messaging tools" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468241298000" />
+                <option name="description" value="Tools and service for PlayJava applications" />
+                <option name="id" value="1358" />
+                <option name="key" value="lu.post.common:common-play" />
+                <option name="longName" value="playJava-services" />
+                <option name="name" value="playJava-services" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467969838000" />
+                <option name="date" value="1467988095000" />
+                <option name="id" value="1189" />
+                <option name="key" value="my:project" />
+                <option name="longName" value="My project" />
+                <option name="name" value="My project" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467089561000" />
+                <option name="date" value="1467096753000" />
+                <option name="id" value="922" />
+                <option name="key" value="ptech-soe-request" />
+                <option name="longName" value="Request for Ptech SOE" />
+                <option name="name" value="Request for Ptech SOE" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057097000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="1" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client" />
+                <option name="longName" value="datapower-webservice-client" />
+                <option name="name" value="datapower-webservice-client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="237" />
+                <option name="key" value="lu.post.amdpic:amdpic-api" />
+                <option name="longName" value="amdpic-api" />
+                <option name="name" value="amdpic-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="2" />
+                <option name="key" value="lu.post.datapower:appliance-management-protocol" />
+                <option name="longName" value="appliance-management-protocol" />
+                <option name="name" value="appliance-management-protocol" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="54" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator" />
+                <option name="longName" value="datapower-config-comparator" />
+                <option name="name" value="datapower-config-comparator" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="132" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-common" />
+                <option name="longName" value="datapower-config-comparator-common" />
+                <option name="name" value="datapower-config-comparator-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="116" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-rest-web" />
+                <option name="longName" value="datapower-config-comparator-rest-web" />
+                <option name="name" value="datapower-config-comparator-rest-web" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="188" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-scheduler" />
+                <option name="longName" value="datapower-config-comparator-scheduler" />
+                <option name="name" value="datapower-config-comparator-scheduler" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="15" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client-common" />
+                <option name="longName" value="datapower-webservice-client-common" />
+                <option name="name" value="datapower-webservice-client-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="219" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-db" />
+                <option name="longName" value="datapower-webservice-db" />
+                <option name="name" value="datapower-webservice-db" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="102" />
+                <option name="key" value="lu.post.isam:isam-rest-api" />
+                <option name="longName" value="isam-rest-api" />
+                <option name="name" value="isam-rest-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1467881101000" />
+                <option name="description" value="Spring Boot Starter Parent" />
+                <option name="id" value="43" />
+                <option name="key" value="lu.post.datapower:soap-configuration-management" />
+                <option name="longName" value="soap-configuration-management" />
+                <option name="name" value="soap-configuration-management" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467875680000" />
+                <option name="date" value="1467966774000" />
+                <option name="id" value="1130" />
+                <option name="key" value="packup-api:packup-api" />
+                <option name="longName" value="packup-api" />
+                <option name="name" value="packup-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468224356000" />
+                <option name="date" value="1468224352000" />
+                <option name="id" value="1251" />
+                <option name="key" value="tracking-api:tracking-api" />
+                <option name="longName" value="tracking-api" />
+                <option name="name" value="tracking-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.1.0" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

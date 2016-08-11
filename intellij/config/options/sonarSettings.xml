@@ -1,0 +1,20 @@
+<application>
+  <component name="sonarServers">
+    <option name="beans">
+      <list>
+        <SonarServerConfig>
+          <option name="hostUrl" value="http://scaleway-seriousjul.ddns.net:9000/" />
+          <option name="name" value="scaleway-seriousjul" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="user" />
+        </SonarServerConfig>
+        <SonarServerConfig>
+          <option name="hostUrl" value="https://ci-platform.inprod.ept.lu/sonar/" />
+          <option name="name" value="AMD Sonar" />
+          <option name="passwordChanged" value="true" />
+          <option name="user" value="fed" />
+        </SonarServerConfig>
+      </list>
+    </option>
+  </component>
+</application>
