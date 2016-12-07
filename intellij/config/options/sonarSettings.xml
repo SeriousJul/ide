@@ -14,6 +14,12 @@
           <option name="passwordChanged" value="true" />
           <option name="user" value="fed" />
         </SonarServerConfig>
+        <SonarServerConfig>
+          <option name="anonymous" value="true" />
+          <option name="hostUrl" value="https://ci-platform.inprod.ept.lu/sonar" />
+          <option name="name" value="AMD sonar public" />
+          <option name="user" value="" />
+        </SonarServerConfig>
       </list>
     </option>
   </component>

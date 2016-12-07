@@ -85,7 +85,7 @@
       </component>
       <component name="ProjectRootManager" version="2" languageLevel="JDK_1_6" default="true" assert-keyword="true" jdk-15="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.scala.compiler.ScalaCompileServerForm" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.notifications" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
       </component>
       <component name="RunManager">
@@ -160,11 +160,20 @@
             <entry key="C:/Dev/MYPOSTID/mypostid-admin-api" value="1461323424247" />
             <entry key="C:/Dev/MY_POST_ID/mypostid-api" value="1450699738636" />
             <entry key="C:/Dev/MY_POST_ID/mypostid-pdamin-proxy-api" value="1457362299891" />
+            <entry key="C:/Dev/captcha-api" value="1472568669152" />
+            <entry key="C:/Dev/eservices-api" value="1467960229886" />
+            <entry key="C:/Dev/mobile-api" value="1476790736448" />
             <entry key="C:/Dev/mypost-admin-api" value="1464096733263" />
+            <entry key="C:/Dev/mypostid-eai-api" value="1472477068106" />
+            <entry key="C:/Dev/orely-proxy-api" value="1472566045681" />
             <entry key="C:/Dev/packup-api" value="1462969724844" />
+            <entry key="C:/Dev/rem-alt-api" value="1472472116407" />
             <entry key="C:/Dev/roaming-api" value="1462349534695" />
+            <entry key="C:/Dev/spotify-proxy-api" value="1472226518102" />
+            <entry key="C:/Dev/telecom-mobile-api" value="1477557154573" />
             <entry key="C:/Dev/tools-api" value="1469116506266" />
             <entry key="C:/Dev/tracking-api" value="1468222031868" />
+            <entry key="C:/Temp/play-scala" value="1473151188666" />
           </map>
         </option>
         <option name="externalProjectsViewState">

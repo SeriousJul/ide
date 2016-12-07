@@ -1,68 +1,68 @@
 <application>
   <component name="FindRecents">
     <findStrings>
-      <find>histories</find>
-      <find>/points</find>
-      <find>/message</find>
-      <find>/label</find>
-      <find>/messages</find>
-      <find>packup</find>
-      <find>roo</find>
-      <find>packup-</find>
-      <find>Erro</find>
-      <find>error</find>
-      <find>post</find>
-      <find>ItemsResponse</find>
-      <find>ObjectId</find>
-      <find>mongo.url</find>
-      <find>mongo.uri</find>
-      <find>lu.ptc.common</find>
-      <find>common-ty</find>
-      <find>tracking.api.ongoing.days</find>
-      <find>post/</find>
-      <find>$default_group/$APP:$VERSION</find>
-      <find>tracking.url</find>
-      <find>pool</find>
-      <find>post.ws.tracking.url</find>
-      <find>findById</find>
-      <find>CC009988000AU</find>
-      <find>models.jaxb</find>
-      <find>hsi</find>
-      <find>&lt;&gt;</find>
-      <find>ENHANCE_ITEM</find>
-      <find>/item</find>
+      <find>filter</find>
+      <find>Filter</find>
+      <find>Error</find>
+      <find>from</find>
+      <find>TBAP_ITEM</find>
+      <find>LUXSEL</find>
+      <find>:serv</find>
+      <find>join</find>
+      <find>\n</find>
+      <find>&quot;ExtraVolume&quot;, true</find>
+      <find>SCOUBIDO3_XL_SSOG</find>
+      <find>:</find>
+      <find>Option</find>
+      <find>receiv</find>
+      <find>&quot;</find>
+      <find>&quot;);</find>
+      <find>SCBD3_CALLSMS_LEU_BU</find>
+      <find>'EU '</find>
+      <find>SMS</find>
+      <find>U</find>
+      <find>mobileCatalogSubscriptions</find>
+      <find>mobileCatalogComponents</find>
+      <find>SCBD3_MMS_LU_BU</find>
+      <find>mypost-api</find>
+      <find>Ebean.getServer</find>
+      <find>FRITZ!Box7570</find>
+      <find>&lt;&lt;SCHEMA&gt;&gt;</find>
+      <find>LXG_SCOUBIDO3_12_CO</find>
+      <find>checkIdentifierV02</find>
+      <find>SET PRICE_TYPE</find>
     </findStrings>
     <replaceStrings>
-      <replace>\&quot;%s\&quot;</replace>
-      <replace>&quot; + CsvHelper. + &quot;</replace>
-      <replace>&quot; + CsvHelper.DEFAULT_CSV_SEPARATOR + &quot;</replace>
-      <replace>CsvHelper.DEFAULT_CSV_SEPARATOR + &quot;%s&quot;</replace>
-      <replace>CsvHelper.DEFAULT_CSV_ENCLOSE + &quot;%s&quot; + CsvHelper.DEFAULT_CSV_ENCLOSE</replace>
-      <replace>CsvHelper.DEFAULT_CSV_ENCLOSE + &quot;%s&quot; + CsvHelper.DEFAULT_CSV_ENCLOSE + CsvHelper.</replace>
-      <replace>CsvHelper.DEFAULT_CSV_ENCLOSE + &quot;%s&quot; + CsvHelper.DEFAULT_CSV_ENCLOSE + CsvHelper.DEFAULT_LINE_SEPARATOR</replace>
-      <replace>PARAMETER</replace>
-      <replace>CsvHelper.DEFAULT_CSV_SEPARATOR + PARAMETER + CsvHelper.DEFAULT_CSV_SEPARATOR + CsvHelper.DEFAULT_LINE_SEPARATOR</replace>
-      <replace>: String ?= null</replace>
-      <replace>final String</replace>
-      <replace>:</replace>
-      <replace>/roamsys</replace>
-      <replace>first</replace>
-      <replace>1525</replace>
-      <replace>waporap</replace>
-      <replace>/id</replace>
-      <replace>/me/packup-id</replace>
-      <replace>)</replace>
-      <replace>Constants.EservicesAccount.ID</replace>
-      <replace>);</replace>
-      <replace>ITC_PTECH</replace>
-      <replace>validateSri(iptvNumber, serviceCodeName);</replace>
-      <replace>hsiServiceNumber</replace>
-      <replace>iptvServiceNumber</replace>
-      <replace>iptvServiceCodeName</replace>
-      <replace>TRACE_MESSAGE</replace>
-      <replace>private String</replace>
-      <replace>PageResult</replace>
-      <replace>$default_group/</replace>
+      <replace>Password update</replace>
+      <replace>Add email</replace>
+      <replace>Add mobile</replace>
+      <replace>Account management</replace>
+      <replace>ELIGIBILITY_TYPE_FIELD</replace>
+      <replace>HIDDEN_FIELD</replace>
+      <replace>CONFIG</replace>
+      <replace>configurationConstants.CHALLENGE_EMAIL_ALLOWED</replace>
+      <replace>configurationConstants.EMAIL_VALIDATE_CREATE_URL</replace>
+      <replace>configurationConstants.CLIENT_WS_CAPTCHA_CREATE_URL</replace>
+      <replace>new TestController(emailChallengeCreateValidator, emailChallengeValidateValidator, identifierService, entityService, tokenService, emailService, configurationConstants)</replace>
+      <replace>class</replace>
+      <replace>1.5.2</replace>
+      <replace>1.8.3-SNAPSHOT</replace>
+      <replace>models.jaxb.Item</replace>
+      <replace>0.2.1</replace>
+      <replace>LUXSEL.TBAP_ITEM</replace>
+      <replace />
+      <replace>&quot;ExtraVolume&quot;, false</replace>
+      <replace>PlanXL</replace>
+      <replace>Component</replace>
+      <replace>');</replace>
+      <replace>BU'</replace>
+      <replace>'</replace>
+      <replace>'EU'</replace>
+      <replace>MMS</replace>
+      <replace>SMS</replace>
+      <replace>U</replace>
+      <replace>Phone_A_24_Months</replace>
+      <replace>, PRICE_TYPE</replace>
     </replaceStrings>
     <dirStrings>
       <dir>C:\Dev\ITC\itc-ptech-api\app\model</dir>
@@ -70,6 +70,13 @@
       <dir>C:\Dev\packup-api\app\services</dir>
       <dir>C:\Dev\packup-api</dir>
       <dir>C:\Dev\common-summer\common-messaging</dir>
+      <dir>C:\Dev\mypostid-api\test</dir>
+      <dir>C:\Temp\play-scala\app</dir>
+      <dir>C:\Dev\itc-ptel-api\app\models\orm</dir>
+      <dir>C:\Dev\mypostid-api\test\lu\post\mypostid\mocks\validators</dir>
+      <dir>C:\Dev\mypostid-eai-api</dir>
+      <dir>C:\Dev\mypostid-api</dir>
+      <dir>C:\Dev\tracking-api</dir>
     </dirStrings>
   </component>
 </application>

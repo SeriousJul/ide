@@ -2,27 +2,38 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="C:\Dev\packup-api" />
-        <option value="C:\Dev\tracking-api" />
-        <option value="C:\Dev\ITC\itc-ptel-api" />
-        <option value="C:\Dev\ITC\itc-ptech-api" />
-        <option value="C:\Dev\common-summer" />
-        <option value="C:\Dev\MYPOSTID\mypostid-api" />
+        <option value="C:\Dev\telecom-mobile-api" />
+        <option value="C:\Dev\mypostid-api" />
+        <option value="C:\Dev\itc-ptel-api" />
+        <option value="C:\Dev\mobile-api" />
+        <option value="C:\Dev\mypost-ordering-api" />
+        <option value="C:\Dev\spotify-proxy-api" />
         <option value="C:\Dev\tools-api" />
-        <option value="C:\Dev\MYPOST\myaccount-api" />
+        <option value="C:\Dev\packup-api" />
+        <option value="C:\Dev\common-summer" />
+        <option value="C:\Dev\tracking-api" />
+        <option value="C:\Dev\mypostid-pdadmin-proxy-api" />
+        <option value="C:\Dev\myaccount-api" />
+        <option value="C:\Dev\itc-ptech-api" />
+        <option value="C:\Dev\mypost_backend" />
+        <option value="C:\Dev\eservices-api" />
+        <option value="C:\Dev\common-summer\common-play" />
+        <option value="C:\Dev\mypostid-admin-api" />
+        <option value="C:\Dev\mypostid-eai-api" />
+        <option value="C:\Dev\itc-raw-api" />
+        <option value="C:\Temp\play-scala" />
+        <option value="C:\Dev\captcha-api" />
+        <option value="C:\Dev\orely-proxy-api" />
+        <option value="C:\Dev\rem-alt-api" />
+        <option value="C:\Dev\MYPOST\mypost_backend" />
         <option value="C:\Dev\roaming-api" />
         <option value="C:\Dev\COMMON_PARENT" />
         <option value="C:\Dev\COMMON_PARENT\common-type" />
-        <option value="C:\Dev\common-summer\common-play" />
-        <option value="C:\Dev\ITC\itc-raw-api" />
         <option value="C:\Dev\mypost-admin-api" />
-        <option value="C:\Dev\MYPOST\mypost_backend" />
         <option value="C:\Dev\ITC\bug-play" />
         <option value="C:\Dev\MYPOSTID\mypostid-admin-api" />
-        <option value="C:\Dev\MYPOST\mypost-ordering-api" />
         <option value="C:\Dev\MYPOSTID\mypostid-pdamin-proxy-api" />
         <option value="C:\Dev\MYPOSTID" />
-        <option value="C:\Dev\MY_POST_ID\mypostid-api" />
         <option value="C:\Dev\MY_POST_ID\mypostid-pdamin-proxy-api" />
         <option value="C:\Dev\sgga-api" />
         <option value="C:\Users\DI12638\IdeaProjects\testactivator" />
@@ -30,10 +41,10 @@
     </option>
     <option name="openPaths">
       <list>
-        <option value="C:\Dev\packup-api" />
+        <option value="C:\Dev\telecom-mobile-api" />
       </list>
     </option>
-    <option name="lastPath" value="C:\Dev\packup-api" />
+    <option name="lastPath" value="C:\Dev\telecom-mobile-api" />
     <option name="additionalInfo">
       <map>
         <entry key="C:\Dev\COMMON_PARENT">
@@ -83,11 +94,11 @@
         <entry key="C:\Dev\ITC\itc-ptel-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1447.26" />
+              <option name="build" value="IC-162.1628.40" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1470735319864" />
-              <option name="buildTimestamp" value="1470088800000" />
+              <option name="projectOpenTimestamp" value="1472042335552" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -127,11 +138,11 @@
         <entry key="C:\Dev\MYPOSTID\mypostid-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1121.32" />
+              <option name="build" value="IC-162.1628.40" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1469795909074" />
-              <option name="buildTimestamp" value="1468015200000" />
+              <option name="projectOpenTimestamp" value="1471587435803" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -149,11 +160,11 @@
         <entry key="C:\Dev\MYPOST\myaccount-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-143.2370" />
+              <option name="build" value="IC-162.1628.40" />
               <option name="productionCode" value="IC" />
-              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1469430785807" />
-              <option name="buildTimestamp" value="1461794400000" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1471587432880" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -171,11 +182,11 @@
         <entry key="C:\Dev\MYPOST\mypost_backend">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-143.2332" />
+              <option name="build" value="IC-162.1628.40" />
               <option name="productionCode" value="IC" />
-              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1463042041446" />
-              <option name="buildTimestamp" value="1458687600000" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1472222555749" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -201,25 +212,102 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Dev\captcha-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1472568995356" />
+              <option name="buildTimestamp" value="1471298400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Dev\common-summer">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1121.32" />
+              <option name="build" value="IC-162.2032.8" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1470044283807" />
-              <option name="buildTimestamp" value="1468015200000" />
+              <option name="projectOpenTimestamp" value="1477666070682" />
+              <option name="buildTimestamp" value="1473372000000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="C:\Dev\common-summer\common-play">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-143.2370" />
+              <option name="build" value="IC-162.2032.8" />
               <option name="productionCode" value="IC" />
-              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 15.0.2\bin" />
-              <option name="projectOpenTimestamp" value="1468223975805" />
-              <option name="buildTimestamp" value="1461794400000" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1475224538607" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\eservices-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1476259722101" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\itc-ptech-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1477295927843" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\itc-ptel-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1480586668333" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\itc-raw-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1473258101978" />
+              <option name="buildTimestamp" value="1471298400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mobile-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1479998190445" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\myaccount-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1477377817627" />
+              <option name="buildTimestamp" value="1473372000000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -234,14 +322,113 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Dev\mypost-ordering-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1479998153661" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypost_backend">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1476878049636" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypostid-admin-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1475070058668" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypostid-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1480941166084" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypostid-eai-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1474536247402" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypostid-pdadmin-proxy-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1477489778782" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\mypostid-pdamin-proxy-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1472626765177" />
+              <option name="buildTimestamp" value="1471298400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\orely-proxy-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1472566135073" />
+              <option name="buildTimestamp" value="1471298400000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Dev\packup-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1447.26" />
+              <option name="build" value="IC-162.2032.8" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1470898643100" />
-              <option name="buildTimestamp" value="1470088800000" />
+              <option name="projectOpenTimestamp" value="1479714787441" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\rem-alt-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1472472461744" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -267,25 +454,58 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="C:\Dev\spotify-proxy-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1479998124987" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Dev\telecom-mobile-api">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.2032.8" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1481026784501" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="C:\Dev\tools-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1121.32" />
+              <option name="build" value="IC-162.2032.8" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1469690863321" />
-              <option name="buildTimestamp" value="1468015200000" />
+              <option name="projectOpenTimestamp" value="1479983558430" />
+              <option name="buildTimestamp" value="1473372000000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="C:\Dev\tracking-api">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IC-162.1447.26" />
+              <option name="build" value="IC-162.2032.8" />
               <option name="productionCode" value="IC" />
               <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
-              <option name="projectOpenTimestamp" value="1470812009015" />
-              <option name="buildTimestamp" value="1470088800000" />
+              <option name="projectOpenTimestamp" value="1477572145111" />
+              <option name="buildTimestamp" value="1473372000000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="C:\Temp\play-scala">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IC-162.1628.40" />
+              <option name="productionCode" value="IC" />
+              <option name="binFolder" value="C:\Tools\IntelliJ IDEA Community Edition 2016.2\bin" />
+              <option name="projectOpenTimestamp" value="1473252567271" />
+              <option name="buildTimestamp" value="1471298400000" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

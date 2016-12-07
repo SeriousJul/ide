@@ -1,224 +1,294 @@
 <application>
   <component name="StatisticsApplicationUsages">
+    <group name="libraries">
+      <project id="mypostid-pdadmin-proxy-api" values="Scala" collectionTime="1473776504638" />
+      <project id="orely-proxy-api" values="Scala" collectionTime="1472568843831" />
+      <project id="packup-api" values="Scala" collectionTime="1473776504156" />
+      <project id="rem-alt-api" values="Scala" collectionTime="1472477180930" />
+      <project id="itc-ptel-api" values="Scala" collectionTime="1473861561871" />
+      <project id="mypostid-api" values="Scala" collectionTime="1473859206142" />
+      <project id="itc-raw-api" values="Scala" collectionTime="1473335339057" />
+      <project id="post_mypost_mobile_api" values="Scala" collectionTime="1463465465746" />
+      <project id="mypost-api" values="Scala" collectionTime="1473176587545" />
+      <project id="tools-api" values="Scala" collectionTime="1470913503322" />
+      <project id="play-scala" values="Scala" collectionTime="1473335338992" />
+      <project id="mypostid-eai-api" values="Scala" collectionTime="1473164102757" />
+      <project id="roaming-api" values="Scala" collectionTime="1469200335259" />
+      <project id="itc-ptech-api" values="Scala" collectionTime="1473861765463" />
+      <project id="captcha-api" values="Scala" collectionTime="1472570525602" />
+      <project id="myaccount-api" values="Scala" collectionTime="1473839544739" />
+      <project id="mypost-admin-api" values="Scala" collectionTime="1464099165415" />
+      <project id="tracking-api" values="Scala" collectionTime="1473335339090" />
+      <project id="mypost-ordering-api" values="Scala" collectionTime="1473176588468" />
+      <project id="bug-play" values="Scala" collectionTime="1462870800065" />
+      <project id="mypostid-admin-api" values="Scala" collectionTime="1472648675525" />
+    </group>
+    <group name="Git">
+      <project id="myaccount-api" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.8+" collectionTime="1473839544759" />
+      <project id="sgga-api" values="config.cherry-pick.autocommit.disabled,config.force.push.enabled,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.ssh.enabled,data.remotes.in.project.1,data.local.branches.count.1,config.push.update.all.roots.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1452870651095" />
+      <project id="orely-proxy-api" values="config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.ssh.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.force.push.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,data.remote.branches.count.2+,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1472568843832" />
+      <project id="testactivator" values="config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.save.policy.STASH" collectionTime="1452603548190" />
+      <project id="packup-api" values="config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.detached.enabled,data.remotes.in.project.2+,data.remote.branches.count.2+,config.warn.about.crlf.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1473776504156" />
+      <project id="common-play" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.ssh.enabled" collectionTime="1468224054474" />
+      <project id="itc-ptel-api" values="config.ssh.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+" collectionTime="1473861561874" />
+      <project id="mypostid-api" values="data.remote.branches.count.5+,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.local.branches.count.2+,config.force.push.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled" collectionTime="1473859206146" />
+      <project id="itc-raw-api" values="data.remote.branches.count.2+,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.warn.about.crlf.enabled,data.local.branches.count.2+,config.ssh.enabled" collectionTime="1473335339058" />
+      <project id="post_mypost_mobile_api" values="config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.5+,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,data.remote.branches.count.30+,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,data.remotes.in.project.1" collectionTime="1463465465746" />
+      <project id="mypostid-pdadmin-proxy-api" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.5+,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.5+" collectionTime="1473776504638" />
+      <project id="rem-alt-api" values="config.force.push.enabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+" collectionTime="1472477180930" />
+      <project id="mypost_backend" values="config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.ssh.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,config.push.update.all.roots.enabled" collectionTime="1452607438013" />
+      <project id="common-summer" values="config.push.autoupdate.disabled,data.remote.branches.count.2+,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,data.remotes.in.project.1,data.local.branches.count.2+,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.save.policy.STASH" collectionTime="1470139484369" />
+      <project id="mypostid-eai-api" values="config.update.type.BRANCH_DEFAULT,data.remotes.in.project.1,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.ssh.enabled,config.force.push.enabled,config.save.policy.STASH,data.local.branches.count.2+,data.remote.branches.count.8+,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled" collectionTime="1473164102758" />
+      <project id="tools-api" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.force.push.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.ssh.enabled" collectionTime="1470913503325" />
+      <project id="roaming-api" values="config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.remotes.in.project.1,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled" collectionTime="1469200335260" />
+      <project id="itc-ptech-api" values="data.local.branches.count.2+,config.ssh.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.force.push.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1473861765465" />
+      <project id="bug-play" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.push.autoupdate.disabled" collectionTime="1462870800065" />
+      <project id="captcha-api" values="config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remotes.in.project.1,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,data.remote.branches.count.2+" collectionTime="1472570525602" />
+      <project id="mypost-api" values="config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.force.push.enabled,data.remotes.in.project.1,config.warn.about.crlf.enabled,data.remote.branches.count.30+,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,data.local.branches.count.5+,config.update.type.BRANCH_DEFAULT" collectionTime="1473176587546" />
+      <project id="mypost-admin-api" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+,data.remote.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED" collectionTime="1464099165415" />
+      <project id="common-type" values="config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1468921265625" />
+      <project id="tracking-api" values="config.repo.sync.NOT_DECIDED,data.remote.branches.count.2+,config.force.push.enabled,config.ssh.enabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.autoupdate.disabled,data.local.branches.count.2+" collectionTime="1473335339090" />
+      <project id="play-scala" values="config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled" collectionTime="1473335338993" />
+      <project id="common-parent" values="config.push.update.all.roots.enabled,config.force.push.enabled,data.remote.branches.count.2+,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1469116523397" />
+      <project id="mypost-ordering-api" values="config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.5+,config.push.update.all.roots.enabled,config.force.push.enabled,data.remote.branches.count.8+,config.save.policy.STASH,config.push.autoupdate.disabled" collectionTime="1473176588468" />
+      <project id="mypostid-admin-api" values="config.push.autoupdate.disabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,data.local.branches.count.2+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,data.remote.branches.count.15+,config.update.type.BRANCH_DEFAULT" collectionTime="1472648675526" />
+    </group>
+    <group name="vcs">
+      <project id="mypostid-pdadmin-proxy-api" values="Git" collectionTime="1473776504587" />
+      <project id="orely-proxy-api" values="Git" collectionTime="1472568843780" />
+      <project id="packup-api" values="Git" collectionTime="1473776504112" />
+      <project id="rem-alt-api" values="Git" collectionTime="1472477180859" />
+      <project id="itc-ptel-api" values="Git" collectionTime="1473861561693" />
+      <project id="mypostid-api" values="Git" collectionTime="1473859206011" />
+      <project id="itc-raw-api" values="Git" collectionTime="1473335338994" />
+      <project id="post_mypost_mobile_api" values="Git" collectionTime="1463465465703" />
+      <project id="mypost-api" values="Git" collectionTime="1473176587462" />
+      <project id="tools-api" values="Git" collectionTime="1470913503207" />
+      <project id="tracking-api" values="Git" collectionTime="1473335339059" />
+      <project id="common-summer" values="Git" collectionTime="1470139484096" />
+      <project id="mypostid-eai-api" values="Git" collectionTime="1473164102246" />
+      <project id="roaming-api" values="Git" collectionTime="1469200334732" />
+      <project id="itc-ptech-api" values="Git" collectionTime="1473861765351" />
+      <project id="captcha-api" values="Git" collectionTime="1472570525544" />
+      <project id="myaccount-api" values="Git" collectionTime="1473839544552" />
+      <project id="mypost-admin-api" values="Git" collectionTime="1464099165345" />
+      <project id="sgga-api" values="Git" collectionTime="1452870651064" />
+      <project id="mypost-ordering-api" values="Git" collectionTime="1473176588385" />
+      <project id="common-parent" values="Git" collectionTime="1469116523200" />
+      <project id="mypostid-admin-api" values="Git" collectionTime="1472648675461" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="tracking-api" values="JUnit" collectionTime="1473335339059" />
+      <project id="itc-ptech-api" values="JUnit" collectionTime="1473861765352" />
+      <project id="packup-api" values="Application,JUnit" collectionTime="1473776504112" />
+      <project id="common-summer" values="JUnit" collectionTime="1470139484096" />
+      <project id="itc-ptel-api" values="JUnit" collectionTime="1473861561694" />
+    </group>
     <group name="run-configuration-type">
+      <project id="tracking-api" values="SbtRunConfiguration" collectionTime="1473335339059" />
+      <project id="mypost-api" values="SbtRunConfiguration" collectionTime="1473176587462" />
+      <project id="itc-ptech-api" values="SbtRunConfiguration" collectionTime="1473861765352" />
+      <project id="packup-api" values="Remote,SbtRunConfiguration" collectionTime="1473776504112" />
       <project id="post_mypost_mobile_api" values="SbtRunConfiguration" collectionTime="1463465465703" />
-      <project id="itc-ptech-api" values="SbtRunConfiguration" collectionTime="1470663712032" />
-      <project id="packup-api" values="Remote" collectionTime="1470898701282" />
+    </group>
+    <group name="language-level">
+      <project id="myaccount-api" values="JDK_1_8" collectionTime="1473839544758" />
+      <project id="sgga-api" values="JDK_1_6" collectionTime="1452870651095" />
+      <project id="orely-proxy-api" values="JDK_1_8" collectionTime="1472568843831" />
+      <project id="testactivator" values="JDK_1_8" collectionTime="1452603548190" />
+      <project id="packup-api" values="JDK_1_8" collectionTime="1473776504156" />
+      <project id="common-play" values="JDK_1_8" collectionTime="1468224054474" />
+      <project id="itc-ptel-api" values="JDK_1_8" collectionTime="1473861561874" />
+      <project id="mypostid-api" values="JDK_1_8" collectionTime="1473859206146" />
+      <project id="itc-raw-api" values="JDK_1_8" collectionTime="1473335339058" />
+      <project id="post_mypost_mobile_api" values="JDK_1_8" collectionTime="1463465465746" />
+      <project id="mypostid-pdadmin-proxy-api" values="JDK_1_8" collectionTime="1473776504638" />
+      <project id="rem-alt-api" values="JDK_1_8" collectionTime="1472477180930" />
+      <project id="mypost_backend" values="JDK_1_6" collectionTime="1452607438013" />
+      <project id="common-summer" values="JDK_1_8" collectionTime="1470139484369" />
+      <project id="mypostid-eai-api" values="JDK_1_8" collectionTime="1473164102757" />
+      <project id="tools-api" values="JDK_1_8" collectionTime="1470913503324" />
+      <project id="roaming-api" values="JDK_1_8" collectionTime="1469200335260" />
+      <project id="itc-ptech-api" values="JDK_1_8" collectionTime="1473861765465" />
+      <project id="bug-play" values="JDK_1_8" collectionTime="1462870800065" />
+      <project id="captcha-api" values="JDK_1_8" collectionTime="1472570525602" />
+      <project id="mypost-api" values="JDK_1_8" collectionTime="1473176587546" />
+      <project id="mypost-admin-api" values="JDK_1_8" collectionTime="1464099165415" />
+      <project id="common-type" values="JDK_1_6,JDK_1_8" collectionTime="1468921265625" />
+      <project id="tracking-api" values="JDK_1_8" collectionTime="1473335339090" />
+      <project id="play-scala" values="JDK_1_8" collectionTime="1473335338993" />
+      <project id="common-parent" values="JDK_1_8,JDK_1_6" collectionTime="1469116523397" />
+      <project id="mypost-ordering-api" values="JDK_1_8" collectionTime="1473176588468" />
+      <project id="mypostid-admin-api" values="JDK_1_8" collectionTime="1472648675525" />
+    </group>
+    <group name="Scala">
+      <project id="mypostid-pdadmin-proxy-api" values="Scala  2.11.1,Library  JUnit for Scala,Library  Scalaz,Library  Specs2,Library  Play2 for Scala|false,Library  Akka for Scala,Library  ScalaTest" collectionTime="1473776504638" />
+      <project id="orely-proxy-api" values="Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Specs2,Library  Akka for Scala,Scala  2.11.8,Library  Scalaz" collectionTime="1472568843871" />
+      <project id="packup-api" values="Library  Play2 for Scala|false,Scala  2.11.7,Library  JUnit for Scala,Library  Akka for Scala" collectionTime="1473776504157" />
+      <project id="rem-alt-api" values="Library  JUnit for Scala,Library  Play2 for Scala|false,Scala  2.11.7,Library  Akka for Scala" collectionTime="1472477180934" />
+      <project id="itc-ptel-api" values="Scala  2.11.7,Library  Akka for Scala,Library  Play2 for Scala|false,Library  JUnit for Scala" collectionTime="1473861561882" />
+      <project id="mypostid-api" values="Library  Akka for Scala,Scala  2.11.7,Library  JUnit for Scala,Library  ScalaTest,Library  Specs2,Library  Scalaz,Library  Play2 for Scala|false" collectionTime="1473859206152" />
+      <project id="itc-raw-api" values="Library  Play2 for Scala|false,Library  Akka for Scala,Scala  2.11.6,Library  JUnit for Scala,Library  Scalaz,Library  Specs2" collectionTime="1473335339059" />
+      <project id="post_mypost_mobile_api" values="Library  ReactiveMongo,Library  Akka for Scala,Library  Play2 for Scala|false,Library  Specs2,Scala  2.11.2,Library  Scalaz,Library  JUnit for Scala,Library  ScalaTest" collectionTime="1463465465746" />
+      <project id="mypost-api" values="Scala  2.11.2,Library  JUnit for Scala,Library  Akka for Scala,Library  ScalaTest,Library  Specs2,Library  ReactiveMongo,Library  Scalaz,Library  Play2 for Scala|false" collectionTime="1473176587547" />
+      <project id="tools-api" values="Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Akka for Scala,Scala  2.11.7" collectionTime="1470913503345" />
+      <project id="play-scala" values="Library  ScalaTest,Library  JUnit for Scala,Library  Play2 for Scala|false,Scala  2.11.7,Library  Akka for Scala" collectionTime="1473335338994" />
+      <project id="common-summer" values="Library  Akka for Java,Library  Play2 for Java|false" collectionTime="1470139484369" />
+      <project id="mypostid-eai-api" values="Library  ScalaTest,Scala  2.11.1,Library  Specs2,Library  Play2 for Scala|false,Library  Scalaz,Library  Akka for Scala,Library  JUnit for Scala" collectionTime="1473164102760" />
+      <project id="roaming-api" values="Library  JUnit for Scala,Library  Akka for Scala,Scala  2.11.7,Library  Play2 for Scala|false" collectionTime="1469200335264" />
+      <project id="itc-ptech-api" values="Library  Akka for Scala,Scala  2.11.7,Library  Play2 for Scala|false,Library  JUnit for Scala" collectionTime="1473861765498" />
+      <project id="captcha-api" values="Library  Scalaz,Library  ScalaTest,Library  Akka for Scala,Library  Play2 for Scala|false,Scala  2.11.8,Library  Specs2,Library  Rediscala,Library  JUnit for Scala" collectionTime="1472570525604" />
+      <project id="myaccount-api" values="Library  JUnit for Scala,Library  ScalaTest,Scala  2.11.7,Library  Play2 for Scala|false,Library  ReactiveMongo,Library  Akka for Scala" collectionTime="1473839544793" />
+      <project id="mypost-admin-api" values="Scala  2.11.7,Library  ScalaTest,Library  Play2 for Scala|false,Library  Akka for Scala,Library  JUnit for Scala" collectionTime="1464099165462" />
+      <project id="tracking-api" values="Library  Play2 for Scala|false,Library  Akka for Scala,Scala  2.11.7,Library  JUnit for Scala" collectionTime="1473335339092" />
+      <project id="mypost-ordering-api" values="Library  Akka for Scala,Library  Scalaz,Scala  2.11.7,Library  Specs2,Library  ReactiveMongo,Library  Play2 for Scala|false,Library  JUnit for Scala,Library  ScalaTest" collectionTime="1473176588470" />
+      <project id="bug-play" values="Library  JUnit for Scala,Library  Play2 for Scala|false,Library  Akka for Scala,Scala  2.11.7" collectionTime="1462870800066" />
+      <project id="mypostid-admin-api" values="Library  JUnit for Scala,Library  Scalaz,Library  Akka for Scala,Library  ScalaTest,Scala  2.11.1,Library  Play2 for Scala|false,Library  Specs2" collectionTime="1472648675526" />
+    </group>
+    <group name="images.ide.background">
+      <project id="play-scala" values="editor 0,frame 0" collectionTime="1473335338993" />
+      <project id="orely-proxy-api" values="editor 0,frame 0" collectionTime="1472568843831" />
+      <project id="packup-api" values="frame 0,editor 0" collectionTime="1473776504156" />
+      <project id="rem-alt-api" values="editor 0,frame 0" collectionTime="1472477180930" />
+      <project id="itc-ptel-api" values="editor 0,frame 0" collectionTime="1473861561873" />
+      <project id="mypostid-api" values="editor 0,frame 0" collectionTime="1473859206145" />
+      <project id="itc-raw-api" values="frame 0,editor 0" collectionTime="1473335339058" />
+      <project id="mypost-api" values="editor 0,frame 0" collectionTime="1473176587546" />
+      <project id="mypostid-pdadmin-proxy-api" values="frame 0,editor 0" collectionTime="1473776504638" />
+      <project id="common-summer" values="frame 0,editor 0" collectionTime="1470139484369" />
+      <project id="mypostid-eai-api" values="frame 0,editor 0" collectionTime="1473164102757" />
+      <project id="tools-api" values="editor 0,frame 0" collectionTime="1470913503323" />
+      <project id="captcha-api" values="editor 0,frame 0" collectionTime="1472570525602" />
+      <project id="itc-ptech-api" values="editor 0,frame 0" collectionTime="1473861765464" />
+      <project id="myaccount-api" values="frame 0,editor 0" collectionTime="1473839544757" />
+      <project id="tracking-api" values="editor 0,frame 0" collectionTime="1473335339090" />
+      <project id="mypost-ordering-api" values="editor 0,frame 0" collectionTime="1473176588468" />
+      <project id="mypostid-admin-api" values="frame 0,editor 0" collectionTime="1472648675525" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="orely-proxy-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1472568843831" />
+      <project id="packup-api" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473776504156" />
+      <project id="rem-alt-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1472477180930" />
+      <project id="itc-ptel-api" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1473861561873" />
+      <project id="mypostid-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473859206144" />
+      <project id="itc-raw-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1473335339058" />
+      <project id="mypost-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473176587546" />
+      <project id="mypostid-pdadmin-proxy-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1473776504638" />
+      <project id="common-summer" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1470139484369" />
+      <project id="mypostid-eai-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1473164102757" />
+      <project id="tools-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1470913503323" />
+      <project id="captcha-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1472570525602" />
+      <project id="itc-ptech-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1473861765464" />
+      <project id="myaccount-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473839544757" />
+      <project id="tracking-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1473335339090" />
+      <project id="mypost-ordering-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1473176588468" />
+      <project id="mypostid-admin-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1472648675525" />
+    </group>
+    <group name="file-type">
+      <project id="myaccount-api" values="ARCHIVE,Scala,JSON Schema,JavaScript,XML,HOCON,CSS,SBT,Bash,C++,PATCH,CLASS,Dockerfile,PLAIN_TEXT,Markdown,UNKNOWN,Properties,Images,YAML,HTML" collectionTime="1473839544704" />
+      <project id="sgga-api" values="UNKNOWN" collectionTime="1452870651095" />
+      <project id="orely-proxy-api" values="ARCHIVE,CLASS,Bash,Properties,SBT,PLAIN_TEXT,Scala,UNKNOWN,Dockerfile,XML,HOCON,CSS" collectionTime="1472568843830" />
+      <project id="testactivator" values="UNKNOWN" collectionTime="1452603548189" />
+      <project id="packup-api" values="ARCHIVE,Properties,SQL,YAML,Bash,JSON Schema,SBT,JAVA,PLAIN_TEXT,Dockerfile,HOCON,XML,UNKNOWN" collectionTime="1473776504155" />
+      <project id="common-play" values="XML,UNKNOWN,IDEA_MODULE,JAVA" collectionTime="1468224054473" />
+      <project id="itc-ptel-api" values="Bash,HTML,PATCH,Properties,Markdown,Dockerfile,JSON Schema,CLASS,SQL,XML,UNKNOWN,PLAIN_TEXT,JAVA,YAML,JavaScript,SBT,ARCHIVE,HOCON,Images,C++,CSS" collectionTime="1473861561867" />
+      <project id="mypostid-api" values="PATCH,PLAIN_TEXT,YAML,JAVA,CLASS,Markdown,Dockerfile,Perl,ARCHIVE,UNKNOWN,Images,Bash,SBT,HOCON,JavaScript,C++,Scala,Properties,XML,JSON Schema,CSS,HTML" collectionTime="1473859206138" />
+      <project id="itc-raw-api" values="UNKNOWN,Properties,YAML,CSS,Images,CLASS,Scala,PLAIN_TEXT,HTML,SBT,JSON Schema,XML,JavaScript,JAVA,C++,Dockerfile,HOCON,Bash,Markdown,PATCH,ARCHIVE" collectionTime="1473335339056" />
+      <project id="post_mypost_mobile_api" values="SBT,Images,HTML,IDEA_MODULE,Scala,Properties,Perl,JSON,CSS,ARCHIVE,PATCH,CLASS,JAVA,HOCON,UNKNOWN,Bash,C++,PLAIN_TEXT,JavaScript,XML" collectionTime="1463465465746" />
+      <project id="mypostid-pdadmin-proxy-api" values="PLAIN_TEXT,CSS,JavaScript,Scala,SBT,XML,JSON Schema,ARCHIVE,HTML,Perl,CLASS,UNKNOWN,Bash,C++,Images,PATCH,HOCON,Properties,Markdown,YAML,Dockerfile" collectionTime="1473776504637" />
+      <project id="rem-alt-api" values="YAML,CSS,Bash,HOCON,Images,JavaScript,Properties,XML,ARCHIVE,JAVA,UNKNOWN,CLASS,SBT,PLAIN_TEXT,Dockerfile" collectionTime="1472477180929" />
+      <project id="mypost_backend" values="UNKNOWN" collectionTime="1452607438013" />
+      <project id="common-summer" values="JAVA,Manifest,Properties,Bash,XML,PLAIN_TEXT,IDEA_MODULE" collectionTime="1470139484368" />
+      <project id="mypostid-eai-api" values="XML,CSS,PLAIN_TEXT,Markdown,YAML,C++,Dockerfile,HTML,UNKNOWN,CLASS,JavaScript,Bash,Properties,PATCH,ARCHIVE,Images,HOCON,Perl,JSON Schema,SBT,Scala" collectionTime="1473164102757" />
+      <project id="tools-api" values="HOCON,SBT,Bash,YAML,PLAIN_TEXT,XML,ARCHIVE,JAVA,Properties,Dockerfile,JSON Schema" collectionTime="1470913503318" />
+      <project id="roaming-api" values="SnakeYAML,HTML,ARCHIVE,JSON,IDEA_MODULE,PLAIN_TEXT,Dockerfile,UNKNOWN,Bash,CSS,JavaScript,XML,CLASS,C++,SBT,JAVA,Properties,PATCH,HOCON,Images,SQL" collectionTime="1469200335259" />
+      <project id="itc-ptech-api" values="Images,HTML,SQL,UNKNOWN,ARCHIVE,CSS,JavaScript,PLAIN_TEXT,Properties,YAML,Dockerfile,SBT,XML,CLASS,HOCON,C++,Markdown,Bash,PATCH,JSON Schema,JAVA" collectionTime="1473861765458" />
+      <project id="bug-play" values="JavaScript,UNKNOWN,HOCON,SBT,PLAIN_TEXT,Images,CSS,XML,HTML,PATCH,Properties,CLASS,JSON,IDEA_MODULE,JAVA,Bash,ARCHIVE,C++" collectionTime="1462870800065" />
+      <project id="captcha-api" values="HOCON,Scala,XML,Dockerfile,JAVA,UNKNOWN,Properties,Bash,CSS,ARCHIVE,SBT,PLAIN_TEXT,CLASS" collectionTime="1472570525601" />
+      <project id="mypost-api" values="Scala,XML,HTML,CSS,CLASS,Bash,JSON Schema,Properties,ARCHIVE,HOCON,PATCH,C++,Perl,Markdown,UNKNOWN,PLAIN_TEXT,YAML,JavaScript,Images,JAVA,SBT,Dockerfile" collectionTime="1473176587544" />
+      <project id="mypost-admin-api" values="CSS,Dockerfile,Properties,SBT,Images,IDEA_MODULE,ARCHIVE,JavaScript,HOCON,Scala,UNKNOWN,Bash,XML,CLASS,PLAIN_TEXT" collectionTime="1464099165414" />
+      <project id="common-type" values="XML,UNKNOWN,JAVA,IDEA_MODULE" collectionTime="1468921265624" />
+      <project id="tracking-api" values="JAVA,HOCON,JSON Schema,Markdown,PATCH,CSS,YAML,ARCHIVE,UNKNOWN,C++,SBT,XML,HTML,JavaScript,Dockerfile,CLASS,Bash,Properties,PLAIN_TEXT,Images" collectionTime="1473335339089" />
+      <project id="play-scala" values="HTML,PLAIN_TEXT,Images,HOCON,JavaScript,Bash,Scala,XML,CLASS,Properties,SBT,CSS,ARCHIVE,UNKNOWN" collectionTime="1473335338991" />
+      <project id="common-parent" values="IDEA_MODULE,JSP,SQL,Images,PLAIN_TEXT,Properties,UNKNOWN,JSON,HTML,JAVA,Native,JavaScript,Manifest,XML" collectionTime="1469116523393" />
+      <project id="mypost-ordering-api" values="PLAIN_TEXT,C++,Scala,HOCON,CSS,Bash,Markdown,PATCH,Properties,JavaScript,Images,ARCHIVE,HTML,CLASS,Dockerfile,YAML,JSON Schema,UNKNOWN,SBT,XML,JAVA" collectionTime="1473176588467" />
+      <project id="mypostid-admin-api" values="Markdown,XML,Scala,Properties,CLASS,YAML,HOCON,HTML,Bash,PLAIN_TEXT,JavaScript,ARCHIVE,PATCH,Perl,CSS,JSON Schema,Images,UNKNOWN,SBT,Dockerfile,C++" collectionTime="1472648675525" />
     </group>
     <group name="module type">
       <project id="testactivator" values="JAVA_MODULE" collectionTime="1452603548185" />
-      <project id="packup-api" values="JAVA_MODULE" collectionTime="1470898701282" />
+      <project id="bug-play" values="JAVA_MODULE" collectionTime="1462870799990" />
+      <project id="packup-api" values="JAVA_MODULE" collectionTime="1473776504112" />
       <project id="common-play" values="JAVA_MODULE" collectionTime="1468224054438" />
-      <project id="itc-ptel-api" values="JAVA_MODULE" collectionTime="1470812008705" />
-      <project id="mypostid-api" values="JAVA_MODULE" collectionTime="1469795993658" />
-      <project id="itc-raw-api" values="JAVA_MODULE" collectionTime="1464176478561" />
+      <project id="itc-ptel-api" values="JAVA_MODULE" collectionTime="1473861561694" />
+      <project id="mypostid-api" values="JAVA_MODULE" collectionTime="1473859206012" />
+      <project id="itc-raw-api" values="JAVA_MODULE" collectionTime="1473335338994" />
       <project id="post_mypost_mobile_api" values="JAVA_MODULE" collectionTime="1463465465703" />
-      <project id="mypostid-pdadmin-proxy-api" values="JAVA_MODULE" collectionTime="1461325493272" />
+      <project id="mypost-api" values="JAVA_MODULE" collectionTime="1473176587462" />
+      <project id="mypostid-pdadmin-proxy-api" values="JAVA_MODULE" collectionTime="1473776504587" />
+      <project id="rem-alt-api" values="JAVA_MODULE" collectionTime="1472477180859" />
+      <project id="orely-proxy-api" values="JAVA_MODULE" collectionTime="1472568843780" />
       <project id="common-summer" values="JAVA_MODULE" collectionTime="1470139484096" />
-      <project id="common-parent" values="JAVA_MODULE" collectionTime="1469116523200" />
-      <project id="tools-api" values="JAVA_MODULE" collectionTime="1469809804808" />
+      <project id="mypostid-eai-api" values="JAVA_MODULE" collectionTime="1473164102246" />
+      <project id="tools-api" values="JAVA_MODULE" collectionTime="1470913503208" />
       <project id="roaming-api" values="JAVA_MODULE" collectionTime="1469200334732" />
-      <project id="itc-ptech-api" values="JAVA_MODULE" collectionTime="1470663712032" />
-      <project id="myaccount-api" values="JAVA_MODULE" collectionTime="1469430788927" />
+      <project id="itc-ptech-api" values="JAVA_MODULE" collectionTime="1473861765351" />
+      <project id="captcha-api" values="JAVA_MODULE" collectionTime="1472570525544" />
+      <project id="myaccount-api" values="JAVA_MODULE" collectionTime="1473839544553" />
       <project id="mypost-admin-api" values="JAVA_MODULE" collectionTime="1464099165346" />
       <project id="common-type" values="JAVA_MODULE" collectionTime="1468921265587" />
-      <project id="tracking-api" values="JAVA_MODULE" collectionTime="1470898464001" />
-      <project id="mypost-ordering-api" values="JAVA_MODULE" collectionTime="1461325498145" />
-      <project id="bug-play" values="JAVA_MODULE" collectionTime="1462870799990" />
-      <project id="mypostid-admin-api" values="JAVA_MODULE" collectionTime="1461336211873" />
-    </group>
-    <group name="vcs">
-      <project id="mypostid-pdadmin-proxy-api" values="Git" collectionTime="1461325493272" />
-      <project id="sgga-api" values="Git" collectionTime="1452870651064" />
-      <project id="packup-api" values="Git" collectionTime="1470898701281" />
-      <project id="itc-ptel-api" values="Git" collectionTime="1470812008705" />
-      <project id="common-summer" values="Git" collectionTime="1470139484096" />
-      <project id="mypost-admin-api" values="Git" collectionTime="1464099165345" />
-      <project id="itc-raw-api" values="Git" collectionTime="1464176478561" />
-      <project id="post_mypost_mobile_api" values="Git" collectionTime="1463465465703" />
-      <project id="tools-api" values="Git" collectionTime="1469809804808" />
-      <project id="mypostid-api" values="Git" collectionTime="1469795993658" />
-      <project id="roaming-api" values="Git" collectionTime="1469200334732" />
-      <project id="itc-ptech-api" values="Git" collectionTime="1470663712032" />
-      <project id="myaccount-api" values="Git" collectionTime="1469430788927" />
-      <project id="tracking-api" values="Git" collectionTime="1470898464001" />
-      <project id="mypost-ordering-api" values="Git" collectionTime="1461325498145" />
-      <project id="common-parent" values="Git" collectionTime="1469116523200" />
-      <project id="mypostid-admin-api" values="Git" collectionTime="1461336211873" />
-    </group>
-    <group name="VCS Log 2">
-      <project id="tools-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1469809804863" />
-      <project id="itc-ptel-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1470812008924" />
-      <project id="tracking-api" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1470898464071" />
-      <project id="packup-api" values="data.git.root.count.1,data.commit.count.100+" collectionTime="1470898701423" />
-      <project id="mypostid-api" values="data.commit.count.100+,data.git.root.count.1" collectionTime="1469795993708" />
-      <project id="itc-ptech-api" values="data.commit.count.1+,data.git.root.count.1" collectionTime="1470663712086" />
-      <project id="common-summer" values="data.git.root.count.1,data.commit.count.1+" collectionTime="1470139484369" />
-    </group>
-    <group name="Scala">
-      <project id="mypostid-pdadmin-proxy-api" values="Library  Akka for Scala,Library  Specs2,Library  Scalaz,Scala  2.11.1,Library  ScalaTest,Library  Play2 for Scala|false,Library  JUnit for Scala" collectionTime="1461325493771" />
-      <project id="packup-api" values="Library  Play2 for Java|false,Library  Akka for Java" collectionTime="1470898701448" />
-      <project id="itc-ptel-api" values="Scala  2.11.7,Library  Play2 for Scala|false,Library  JUnit for Scala,Library  Akka for Scala" collectionTime="1470812009014" />
-      <project id="common-summer" values="Library  Akka for Java,Library  Play2 for Java|false" collectionTime="1470139484369" />
-      <project id="mypost-admin-api" values="Library  Akka for Scala,Library  JUnit for Scala,Scala  2.11.7,Library  ScalaTest,Library  Play2 for Scala|false" collectionTime="1464099165462" />
-      <project id="itc-raw-api" values="Library  JUnit for Scala,Library  Akka for Scala,Library  Specs2,Library  Play2 for Scala|false,Library  Scalaz,Scala  2.11.6" collectionTime="1464176478643" />
-      <project id="post_mypost_mobile_api" values="Scala  2.11.2,Library  JUnit for Scala,Library  Akka for Scala,Library  ReactiveMongo,Library  Specs2,Library  Scalaz,Library  ScalaTest,Library  Play2 for Scala|false" collectionTime="1463465465746" />
-      <project id="tools-api" values="Scala  2.11.7,Library  JUnit for Scala,Library  Akka for Scala,Library  Play2 for Scala|false" collectionTime="1469809804865" />
-      <project id="mypostid-api" values="Scala  2.11.1,Library  ScalaTest,Library  Akka for Scala,Library  Specs2,Library  Scalaz,Library  JUnit for Scala,Library  Play2 for Scala|false" collectionTime="1469795993737" />
-      <project id="roaming-api" values="Library  Play2 for Scala|false,Library  JUnit for Scala,Library  Akka for Scala,Scala  2.11.7" collectionTime="1469200335264" />
-      <project id="itc-ptech-api" values="Library  Play2 for Scala|false,Scala  2.11.7,Library  JUnit for Scala,Library  Akka for Scala" collectionTime="1470663712091" />
-      <project id="myaccount-api" values="Library  Akka for Scala,Library  JUnit for Scala,Library  Play2 for Scala|false,Library  ScalaTest,Scala  2.11.7,Library  ReactiveMongo" collectionTime="1469430788983" />
-      <project id="tracking-api" values="Library  Play2 for Scala|false,Library  JUnit for Scala,Library  Akka for Scala,Scala  2.11.7" collectionTime="1470898464094" />
-      <project id="mypost-ordering-api" values="Library  JUnit for Scala,Library  ReactiveMongo,Library  Akka for Scala,Library  Play2 for Scala|false,Library  Specs2,Library  ScalaTest,Library  Scalaz,Scala  2.11.7" collectionTime="1461325498217" />
-      <project id="bug-play" values="Library  Akka for Scala,Library  JUnit for Scala,Library  Play2 for Scala|false,Scala  2.11.7" collectionTime="1462870800066" />
-      <project id="mypostid-admin-api" values="Library  JUnit for Scala,Scala  2.11.1,Library  Play2 for Scala|false,Library  Akka for Scala,Library  Scalaz,Library  ScalaTest,Library  Specs2" collectionTime="1461336211959" />
-    </group>
-    <group name="run-configuration-type-temp">
-      <project id="packup-api" values="JUnit" collectionTime="1470898701282" />
-      <project id="tracking-api" values="JUnit" collectionTime="1470898464001" />
-      <project id="itc-ptech-api" values="JUnit" collectionTime="1470663712032" />
-      <project id="common-summer" values="JUnit" collectionTime="1470139484096" />
-      <project id="itc-ptel-api" values="JUnit" collectionTime="1470812008705" />
-    </group>
-    <group name="file-type">
-      <project id="sgga-api" values="UNKNOWN" collectionTime="1452870651095" />
-      <project id="testactivator" values="UNKNOWN" collectionTime="1452603548189" />
-      <project id="packup-api" values="UNKNOWN,HOCON,JSON Schema,Properties,SQL,PLAIN_TEXT,JAVA,ARCHIVE,YAML,XML,Dockerfile,Bash,SBT" collectionTime="1470898701408" />
-      <project id="common-play" values="UNKNOWN,JAVA,XML,IDEA_MODULE" collectionTime="1468224054473" />
-      <project id="itc-ptel-api" values="JavaScript,YAML,SBT,ARCHIVE,Bash,CLASS,HOCON,PATCH,Dockerfile,UNKNOWN,JAVA,Images,HTML,JSON Schema,SQL,Properties,XML,PLAIN_TEXT,CSS,C++" collectionTime="1470812008923" />
-      <project id="mypostid-api" values="Images,Properties,SBT,Dockerfile,JSON Schema,CLASS,YAML,HOCON,Scala,UNKNOWN,JavaScript,Perl,CSS,PLAIN_TEXT,Bash,PATCH,C++,HTML,ARCHIVE,XML" collectionTime="1469795993706" />
-      <project id="itc-raw-api" values="Scala,ARCHIVE,C++,Bash,Images,XML,HTML,HOCON,CSS,SBT,PLAIN_TEXT,Properties,PATCH,Dockerfile,UNKNOWN,JSON,CLASS,JavaScript,JAVA,IDEA_MODULE" collectionTime="1464176478642" />
-      <project id="post_mypost_mobile_api" values="C++,Bash,Scala,Perl,IDEA_MODULE,PATCH,CSS,SBT,CLASS,Images,UNKNOWN,Properties,XML,JAVA,HOCON,PLAIN_TEXT,HTML,ARCHIVE,JSON,JavaScript" collectionTime="1463465465746" />
-      <project id="mypostid-pdadmin-proxy-api" values="Scala,UNKNOWN,JavaScript,CSS,PATCH,PLAIN_TEXT,CLASS,JSON,ARCHIVE,Perl,IDEA_MODULE,XML,HOCON,Images,HTML,C++,Properties,SBT" collectionTime="1461325493378" />
-      <project id="mypost_backend" values="UNKNOWN" collectionTime="1452607438013" />
-      <project id="common-summer" values="IDEA_MODULE,Properties,PLAIN_TEXT,Manifest,Bash,JAVA,XML" collectionTime="1470139484368" />
-      <project id="common-parent" values="SQL,Properties,JSON,Manifest,Native,JavaScript,PLAIN_TEXT,XML,JSP,HTML,Images,UNKNOWN,JAVA,IDEA_MODULE" collectionTime="1469116523393" />
-      <project id="tools-api" values="YAML,JAVA,ARCHIVE,Properties,PLAIN_TEXT,Dockerfile,XML,SBT,HOCON,JSON Schema,Bash" collectionTime="1469809804862" />
-      <project id="roaming-api" values="IDEA_MODULE,PATCH,Images,C++,ARCHIVE,SBT,HOCON,Bash,PLAIN_TEXT,XML,CSS,JavaScript,HTML,CLASS,Properties,SQL,JAVA,JSON,Dockerfile,UNKNOWN,SnakeYAML" collectionTime="1469200335259" />
-      <project id="itc-ptech-api" values="ARCHIVE,SBT,JavaScript,JAVA,SQL,Dockerfile,PLAIN_TEXT,UNKNOWN,PATCH,HOCON,Properties,CSS,CLASS,Images,C++,JSON Schema,YAML,HTML,XML,Bash" collectionTime="1470663712085" />
-      <project id="myaccount-api" values="SBT,HOCON,JavaScript,Dockerfile,PLAIN_TEXT,HTML,Properties,XML,CSS,UNKNOWN,ARCHIVE,PATCH,Scala,JSON,Images,IDEA_MODULE,SnakeYAML,Bash,CLASS,C++" collectionTime="1469430788982" />
-      <project id="mypost-admin-api" values="Dockerfile,IDEA_MODULE,HOCON,SBT,Images,UNKNOWN,Properties,Scala,Bash,JavaScript,CSS,XML,CLASS,ARCHIVE,PLAIN_TEXT" collectionTime="1464099165414" />
-      <project id="common-type" values="IDEA_MODULE,UNKNOWN,JAVA,XML" collectionTime="1468921265624" />
-      <project id="tracking-api" values="Images,JavaScript,PLAIN_TEXT,Bash,Properties,JAVA,SBT,HTML,JSON Schema,C++,XML,YAML,CLASS,CSS,PATCH,Dockerfile,UNKNOWN,ARCHIVE,HOCON" collectionTime="1470898464071" />
-      <project id="mypost-ordering-api" values="Properties,CLASS,JAVA,PLAIN_TEXT,Images,C++,JSON,XML,HOCON,UNKNOWN,SBT,HTML,Scala,ARCHIVE,JavaScript,PATCH,IDEA_MODULE,CSS" collectionTime="1461325498216" />
-      <project id="bug-play" values="CLASS,JSON,HOCON,CSS,SBT,UNKNOWN,PATCH,ARCHIVE,Images,HTML,Bash,JavaScript,C++,IDEA_MODULE,XML,PLAIN_TEXT,Properties,JAVA" collectionTime="1462870800065" />
-      <project id="mypostid-admin-api" values="C++,ARCHIVE,Images,SBT,XML,IDEA_MODULE,PATCH,CLASS,PLAIN_TEXT,JavaScript,UNKNOWN,JSON,CSS,HOCON,HTML,Scala,Properties,Perl" collectionTime="1461336211956" />
-    </group>
-    <group name="images.ide.background">
-      <project id="tools-api" values="frame 0,editor 0" collectionTime="1469809804863" />
-      <project id="itc-ptel-api" values="editor 0,frame 0" collectionTime="1470812008924" />
-      <project id="tracking-api" values="editor 0,frame 0" collectionTime="1470898464071" />
-      <project id="packup-api" values="frame=0,editor=0" collectionTime="1470898701423" />
-      <project id="mypostid-api" values="frame 0,editor 0" collectionTime="1469795993708" />
-      <project id="itc-ptech-api" values="editor 0,frame 0" collectionTime="1470663712086" />
-      <project id="common-summer" values="frame 0,editor 0" collectionTime="1470139484369" />
-    </group>
-    <group name="Git">
-      <project id="sgga-api" values="config.warn.about.crlf.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,data.local.branches.count.1,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled" collectionTime="1452870651095" />
-      <project id="testactivator" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.force.push.enabled" collectionTime="1452603548190" />
-      <project id="packup-api" values="config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.warn.about.detached.enabled,config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.push.autoupdate.disabled,data.remote.branches.count.2+,data.remotes.in.project.1" collectionTime="1470898701425" />
-      <project id="common-play" values="config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED" collectionTime="1468224054474" />
-      <project id="itc-ptel-api" values="data.remote.branches.count.2+,data.local.branches.count.2+,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,data.remotes.in.project.1,config.save.policy.STASH,config.push.autoupdate.disabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled" collectionTime="1470812008925" />
-      <project id="mypostid-api" values="config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.warn.about.detached.enabled,data.remotes.in.project.1,config.ssh.enabled,config.save.policy.STASH,data.remote.branches.count.15+,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled" collectionTime="1469795993708" />
-      <project id="itc-raw-api" values="config.save.policy.STASH,config.ssh.enabled,config.warn.about.detached.enabled,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,data.remote.branches.count.2+,config.push.autoupdate.disabled,data.local.branches.count.2+" collectionTime="1464176478643" />
-      <project id="post_mypost_mobile_api" values="config.cherry-pick.autocommit.disabled,data.local.branches.count.5+,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.save.policy.STASH,data.remotes.in.project.1,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,data.remote.branches.count.30+" collectionTime="1463465465746" />
-      <project id="mypostid-pdadmin-proxy-api" values="config.warn.about.detached.enabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.force.push.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.push.autoupdate.disabled,data.local.branches.count.2+,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1461325493378" />
-      <project id="mypost_backend" values="config.save.policy.STASH,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1452607438013" />
-      <project id="common-summer" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,data.local.branches.count.2+,data.remote.branches.count.2+,data.remotes.in.project.1,config.warn.about.detached.enabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.crlf.enabled" collectionTime="1470139484369" />
-      <project id="common-parent" values="config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.update.type.BRANCH_DEFAULT,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.warn.about.detached.enabled,data.local.branches.count.2+" collectionTime="1469116523397" />
-      <project id="tools-api" values="config.update.type.BRANCH_DEFAULT,config.ssh.enabled,data.remote.branches.count.2+,data.remotes.in.project.1,config.warn.about.detached.enabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled" collectionTime="1469809804863" />
-      <project id="roaming-api" values="data.remote.branches.count.2+,data.local.branches.count.2+,data.remotes.in.project.1,config.force.push.enabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled" collectionTime="1469200335260" />
-      <project id="itc-ptech-api" values="config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,data.remote.branches.count.2+,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.force.push.enabled,data.local.branches.count.2+,data.remotes.in.project.1,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1470663712086" />
-      <project id="myaccount-api" values="config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,data.remote.branches.count.8+,config.ssh.enabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,data.local.branches.count.2+" collectionTime="1469430788983" />
-      <project id="mypost-admin-api" values="config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,data.local.branches.count.2+,config.push.update.all.roots.enabled,config.force.push.enabled,data.remotes.in.project.1,data.remote.branches.count.2+,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled" collectionTime="1464099165415" />
-      <project id="common-type" values="config.ssh.enabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,config.push.update.all.roots.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED" collectionTime="1468921265625" />
-      <project id="tracking-api" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.local.branches.count.2+,config.ssh.enabled,config.warn.about.crlf.enabled,data.remotes.in.project.1,data.remote.branches.count.2+" collectionTime="1470898464071" />
-      <project id="mypost-ordering-api" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.ssh.enabled,config.force.push.enabled,config.warn.about.detached.enabled,data.local.branches.count.5+,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.save.policy.STASH,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,data.remote.branches.count.8+" collectionTime="1461325498217" />
-      <project id="bug-play" values="config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.force.push.enabled,config.cherry-pick.autocommit.disabled,config.ssh.enabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled" collectionTime="1462870800065" />
-      <project id="mypostid-admin-api" values="config.force.push.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.ssh.enabled,data.remote.branches.count.15+,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,data.remotes.in.project.1,data.local.branches.count.2+" collectionTime="1461336211957" />
-    </group>
-    <group name="libraries">
-      <project id="itc-ptel-api" values="Scala" collectionTime="1470812008924" />
-      <project id="mypostid-api" values="Scala" collectionTime="1469795993707" />
-      <project id="itc-raw-api" values="Scala" collectionTime="1464176478642" />
-      <project id="post_mypost_mobile_api" values="Scala" collectionTime="1463465465746" />
-      <project id="mypostid-pdadmin-proxy-api" values="Scala" collectionTime="1461325493378" />
-      <project id="tools-api" values="Scala" collectionTime="1469809804863" />
-      <project id="roaming-api" values="Scala" collectionTime="1469200335259" />
-      <project id="itc-ptech-api" values="Scala" collectionTime="1470663712085" />
-      <project id="myaccount-api" values="Scala" collectionTime="1469430788983" />
-      <project id="mypost-admin-api" values="Scala" collectionTime="1464099165415" />
-      <project id="tracking-api" values="Scala" collectionTime="1470898464071" />
-      <project id="mypost-ordering-api" values="Scala" collectionTime="1461325498216" />
-      <project id="bug-play" values="Scala" collectionTime="1462870800065" />
-      <project id="mypostid-admin-api" values="Scala" collectionTime="1461336211957" />
-    </group>
-    <group name="language-level">
-      <project id="sgga-api" values="JDK_1_6" collectionTime="1452870651095" />
-      <project id="testactivator" values="JDK_1_8" collectionTime="1452603548190" />
-      <project id="packup-api" values="JDK_1_8" collectionTime="1470898701424" />
-      <project id="common-play" values="JDK_1_8" collectionTime="1468224054474" />
-      <project id="itc-ptel-api" values="JDK_1_8" collectionTime="1470812008924" />
-      <project id="mypostid-api" values="JDK_1_8" collectionTime="1469795993708" />
-      <project id="itc-raw-api" values="JDK_1_8" collectionTime="1464176478643" />
-      <project id="post_mypost_mobile_api" values="JDK_1_8" collectionTime="1463465465746" />
-      <project id="mypostid-pdadmin-proxy-api" values="JDK_1_8" collectionTime="1461325493378" />
-      <project id="mypost_backend" values="JDK_1_6" collectionTime="1452607438013" />
-      <project id="common-summer" values="JDK_1_8" collectionTime="1470139484369" />
-      <project id="common-parent" values="JDK_1_8,JDK_1_6" collectionTime="1469116523397" />
-      <project id="tools-api" values="JDK_1_8" collectionTime="1469809804863" />
-      <project id="roaming-api" values="JDK_1_8" collectionTime="1469200335260" />
-      <project id="itc-ptech-api" values="JDK_1_8" collectionTime="1470663712086" />
-      <project id="myaccount-api" values="JDK_1_8" collectionTime="1469430788983" />
-      <project id="mypost-admin-api" values="JDK_1_8" collectionTime="1464099165415" />
-      <project id="common-type" values="JDK_1_6,JDK_1_8" collectionTime="1468921265625" />
-      <project id="tracking-api" values="JDK_1_8" collectionTime="1470898464071" />
-      <project id="mypost-ordering-api" values="JDK_1_8" collectionTime="1461325498217" />
-      <project id="bug-play" values="JDK_1_8" collectionTime="1462870800065" />
-      <project id="mypostid-admin-api" values="JDK_1_8" collectionTime="1461336211957" />
+      <project id="tracking-api" values="JAVA_MODULE" collectionTime="1473335339059" />
+      <project id="play-scala" values="JAVA_MODULE" collectionTime="1473335338942" />
+      <project id="common-parent" values="JAVA_MODULE" collectionTime="1469116523200" />
+      <project id="mypost-ordering-api" values="JAVA_MODULE" collectionTime="1473176588386" />
+      <project id="mypostid-admin-api" values="JAVA_MODULE" collectionTime="1472648675461" />
     </group>
   </component>
   <component name="UsageTrigger">
     <counts>
-      <entry feature="CreateFile.CreateFileAction" count="18" />
+      <entry feature="CreateFile.CreateFileAction" count="21" />
       <entry feature="OpenInBrowser.Chrome" count="1" />
-      <entry feature="execute.JUnit.Debug" count="3" />
-      <entry feature="execute.JUnit.Run" count="165" />
+      <entry feature="execute.Application.Run" count="2" />
+      <entry feature="execute.JUnit.Debug" count="5" />
+      <entry feature="execute.JUnit.Run" count="232" />
       <entry feature="execute.MavenRunConfiguration.Run" count="1" />
-      <entry feature="execute.Remote.Debug" count="3" />
-      <entry feature="execute.SbtRunConfiguration.Debug" count="4" />
-      <entry feature="execute.SbtRunConfiguration.Run" count="67" />
-      <entry feature="ide.help.ideaInterface.editor" count="1" />
+      <entry feature="execute.Remote.Debug" count="5" />
+      <entry feature="execute.SbtRunConfiguration.Debug" count="6" />
+      <entry feature="execute.SbtRunConfiguration.Run" count="75" />
+      <entry feature="ide.help.ideaInterface.editor" count="4" />
+      <entry feature="ide.help.refactoring.extractSuperclass" count="1" />
       <entry feature="ide.help.top" count="1" />
-      <entry feature="ide.settings.Appearance" count="5" />
-      <entry feature="ide.settings.Auto_Import" count="2" />
+      <entry feature="ide.settings.Appearance" count="7" />
+      <entry feature="ide.settings.Auto_Import" count="6" />
       <entry feature="ide.settings.Code_Completion" count="3" />
       <entry feature="ide.settings.Code_Style" count="3" />
+      <entry feature="ide.settings.Console" count="1" />
       <entry feature="ide.settings.Editor_Tabs" count="3" />
-      <entry feature="ide.settings.General" count="6" />
-      <entry feature="ide.settings.HTTP_Proxy" count="3" />
-      <entry feature="ide.settings.Inspections" count="4" />
+      <entry feature="ide.settings.General" count="7" />
+      <entry feature="ide.settings.HTTP_Proxy" count="4" />
+      <entry feature="ide.settings.Inspections" count="6" />
       <entry feature="ide.settings.Keymap" count="15" />
       <entry feature="ide.settings.Maven" count="2" />
-      <entry feature="ide.settings.Plugins" count="6" />
-      <entry feature="ide.settings.Project_Structure" count="4" />
-      <entry feature="ide.settings.SBT" count="6" />
-      <entry feature="ide.settings.Scala" count="2" />
+      <entry feature="ide.settings.Plugins" count="8" />
+      <entry feature="ide.settings.Project_Structure" count="8" />
+      <entry feature="ide.settings.SBT" count="11" />
+      <entry feature="ide.settings.Scala" count="3" />
       <entry feature="ide.settings.Scala_Compile_Server" count="2" />
       <entry feature="ide.settings.Server_Certificates" count="1" />
-      <entry feature="ide.settings.SonarQube" count="5" />
+      <entry feature="ide.settings.SonarQube" count="8" />
       <entry feature="ide.settings.System_Settings" count="3" />
       <entry feature="ide.settings.Updates" count="1" />
-      <entry feature="ideaapp.started" count="55" />
-      <entry feature="scala.extract.method" count="3" />
-      <entry feature="scala.file.script.parsed" count="5203" />
-      <entry feature="scala.file.with.type.aware.annotated" count="356" />
-      <entry feature="scala.introduce.variable" count="1" />
+      <entry feature="ideaapp.started" count="98" />
+      <entry feature="scala.extract.method" count="8" />
+      <entry feature="scala.file.script.parsed" count="243198" />
+      <entry feature="scala.file.with.type.aware.annotated" count="7512" />
+      <entry feature="scala.file.without.type.aware.annotated" count="34" />
+      <entry feature="scala.introduce.variable" count="27" />
+      <entry feature="scala.move.class" count="1" />
       <entry feature="scala.rearrange" count="2" />
-      <entry feature="terminal.win" count="48" />
+      <entry feature="terminal.win" count="138" />
       <entry feature="tips.of.the.day.next" count="10" />
       <entry feature="welcome.screen.WelcomeScreen.ImportProject" count="5" />
-      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenProject" count="6" />
     </counts>
   </component>
 </application>

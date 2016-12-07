@@ -2,7 +2,7 @@
   <component name="HttpConfigurable">
     <option name="PROXY_TYPE_IS_SOCKS" value="true" />
     <option name="USE_HTTP_PROXY" value="true" />
-    <option name="PROXY_HOST" value="xpxiap.inprod.ept.lu" />
+    <option name="PROXY_HOST" value="127.0.0.1" />
     <option name="PROXY_PORT" value="8080" />
     <option name="PROXY_EXCEPTIONS" value="10.*,*.inprod.ept.lu,*.corp.post.lu,sip.post.lu,lyncpool.post.lu,lyncdiscoverinternal.post.lu,autodiscover.post.lu,post.lu,_sipinternaltls._tcp.post.lu,citrix.ept.lu,citrixapps.ept.lu,citrixtest.ept.lu,edgesight.ept.lu,certp.ept.lu,citrixv.ept.lu,outlook.ept.lu,sts.ept.lu,sdr-gisvr.dt.ept.lu,sts-test.ept.lu,*.corptst.posttst.lu,*.intst.epttst.lu,*.epttst.lu,*.posttst.lu,*.ewub.psf" />
   </component>

@@ -231,6 +231,952 @@
             </list>
           </value>
         </entry>
+        <entry key="AMD sonar">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1463722776000" />
+                <option name="date" value="1472479800000" />
+                <option name="id" value="272" />
+                <option name="key" value="amdpic-fe" />
+                <option name="longName" value="AMDPIC UI" />
+                <option name="name" value="AMDPIC UI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226493000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="The common library without Spring Framework, after Spring comes the Summer !" />
+                <option name="id" value="1270" />
+                <option name="key" value="lu.post.common:common-summer" />
+                <option name="longName" value="Common Summer" />
+                <option name="name" value="Common Summer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="Generic messaging tools for translations, templates, mailing" />
+                <option name="id" value="1271" />
+                <option name="key" value="lu.post.common:common-messaging" />
+                <option name="longName" value="Generic messaging tools" />
+                <option name="name" value="Generic messaging tools" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="Tools and service for PlayJava applications" />
+                <option name="id" value="1358" />
+                <option name="key" value="lu.post.common:common-play" />
+                <option name="longName" value="playJava-services" />
+                <option name="name" value="playJava-services" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467969838000" />
+                <option name="date" value="1470306101000" />
+                <option name="id" value="1189" />
+                <option name="key" value="my:project" />
+                <option name="longName" value="My project" />
+                <option name="name" value="My project" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469715419000" />
+                <option name="date" value="1473403776000" />
+                <option name="id" value="1596" />
+                <option name="key" value="apple-dep-api:apple-dep-api" />
+                <option name="longName" value="apple-dep-api" />
+                <option name="name" value="apple-dep-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469715134000" />
+                <option name="date" value="1473230761000" />
+                <option name="id" value="1579" />
+                <option name="key" value="apple-dep-proxy-acc:apple-dep-proxy-acc" />
+                <option name="longName" value="apple-dep-proxy-acc" />
+                <option name="name" value="apple-dep-proxy-acc" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472568914000" />
+                <option name="date" value="1472570080000" />
+                <option name="id" value="3127" />
+                <option name="key" value="captcha-api:captcha-api" />
+                <option name="longName" value="captcha-api" />
+                <option name="name" value="captcha-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057097000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client" />
+                <option name="longName" value="datapower-webservice-client" />
+                <option name="name" value="datapower-webservice-client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="237" />
+                <option name="key" value="lu.post.amdpic:amdpic-api" />
+                <option name="longName" value="amdpic-api" />
+                <option name="name" value="amdpic-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="2" />
+                <option name="key" value="lu.post.datapower:appliance-management-protocol" />
+                <option name="longName" value="appliance-management-protocol" />
+                <option name="name" value="appliance-management-protocol" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="54" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator" />
+                <option name="longName" value="datapower-config-comparator" />
+                <option name="name" value="datapower-config-comparator" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="132" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-common" />
+                <option name="longName" value="datapower-config-comparator-common" />
+                <option name="name" value="datapower-config-comparator-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="116" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-rest-web" />
+                <option name="longName" value="datapower-config-comparator-rest-web" />
+                <option name="name" value="datapower-config-comparator-rest-web" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="188" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-scheduler" />
+                <option name="longName" value="datapower-config-comparator-scheduler" />
+                <option name="name" value="datapower-config-comparator-scheduler" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="15" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client-common" />
+                <option name="longName" value="datapower-webservice-client-common" />
+                <option name="name" value="datapower-webservice-client-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="219" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-db" />
+                <option name="longName" value="datapower-webservice-db" />
+                <option name="name" value="datapower-webservice-db" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="102" />
+                <option name="key" value="lu.post.isam:isam-rest-api" />
+                <option name="longName" value="isam-rest-api" />
+                <option name="name" value="isam-rest-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471335846000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1939" />
+                <option name="key" value="lu.post.datapower:rundeck-rest-api" />
+                <option name="longName" value="rundeck-rest-api" />
+                <option name="name" value="rundeck-rest-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471335846000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1974" />
+                <option name="key" value="lu.post.rundeck:rundeck-rest-web" />
+                <option name="longName" value="rundeck-rest-web" />
+                <option name="name" value="rundeck-rest-web" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="43" />
+                <option name="key" value="lu.post.datapower:soap-configuration-management" />
+                <option name="longName" value="soap-configuration-management" />
+                <option name="name" value="soap-configuration-management" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472046316000" />
+                <option name="date" value="1473669928000" />
+                <option name="id" value="2140" />
+                <option name="key" value="eservices-api:eservices-api" />
+                <option name="longName" value="eservices-api" />
+                <option name="name" value="eservices-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473864117000" />
+                <option name="date" value="1473864110000" />
+                <option name="id" value="3248" />
+                <option name="key" value="itc-ptech-api:itc-ptech-api" />
+                <option name="longName" value="itc-ptech-api" />
+                <option name="name" value="itc-ptech-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471424377000" />
+                <option name="date" value="1471451717000" />
+                <option name="id" value="1986" />
+                <option name="key" value="itc-ptel-api:itc-ptel-api" />
+                <option name="longName" value="itc-ptel-api" />
+                <option name="name" value="itc-ptel-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472039830000" />
+                <option name="date" value="1472563979000" />
+                <option name="id" value="2131" />
+                <option name="key" value="itc-raw-api:itc-raw-api" />
+                <option name="longName" value="itc-raw-api" />
+                <option name="name" value="itc-raw-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.1-RC-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471506183000" />
+                <option name="date" value="1473669817000" />
+                <option name="id" value="2127" />
+                <option name="key" value="myaccount-api:myaccount-api" />
+                <option name="longName" value="myaccount-api" />
+                <option name="name" value="myaccount-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472226079000" />
+                <option name="date" value="1472226076000" />
+                <option name="id" value="2497" />
+                <option name="key" value="mypost-admin-api:mypost-admin-api" />
+                <option name="longName" value="mypost-admin-api" />
+                <option name="name" value="mypost-admin-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472224068000" />
+                <option name="date" value="1472224062000" />
+                <option name="id" value="2336" />
+                <option name="key" value="mypost-api:mypost-api" />
+                <option name="longName" value="mypost-api" />
+                <option name="name" value="mypost-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.7.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472224353000" />
+                <option name="date" value="1472224854000" />
+                <option name="id" value="2428" />
+                <option name="key" value="mypost-ordering-api:mypost-ordering-api" />
+                <option name="longName" value="mypost-ordering-api" />
+                <option name="name" value="mypost-ordering-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472488663000" />
+                <option name="date" value="1472562482000" />
+                <option name="id" value="2959" />
+                <option name="key" value="mypostid-admin-api:mypostid-admin-api" />
+                <option name="longName" value="mypostid-admin-api" />
+                <option name="name" value="mypostid-admin-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472476098000" />
+                <option name="date" value="1473763600000" />
+                <option name="id" value="2659" />
+                <option name="key" value="mypostid-api:mypostid-api" />
+                <option name="longName" value="mypostid-api" />
+                <option name="name" value="mypostid-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.8.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472477067000" />
+                <option name="date" value="1472477064000" />
+                <option name="id" value="2912" />
+                <option name="key" value="mypostid-eai-api:mypostid-eai-api" />
+                <option name="longName" value="mypostid-eai-api" />
+                <option name="name" value="mypostid-eai-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472565075000" />
+                <option name="date" value="1473763525000" />
+                <option name="id" value="3079" />
+                <option name="key" value="mypostid-pdadmin-proxy-api:mypostid-pdadmin-proxy-api" />
+                <option name="longName" value="mypostid-pdadmin-proxy-api" />
+                <option name="name" value="mypostid-pdadmin-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472566446000" />
+                <option name="date" value="1472566521000" />
+                <option name="id" value="3103" />
+                <option name="key" value="orely-proxy-api:orely-proxy-api" />
+                <option name="longName" value="orely-proxy-api" />
+                <option name="name" value="orely-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467875680000" />
+                <option name="date" value="1472734786000" />
+                <option name="id" value="1130" />
+                <option name="key" value="packup-api:packup-api" />
+                <option name="longName" value="packup-api" />
+                <option name="name" value="packup-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.4.1-RC-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473845565000" />
+                <option name="date" value="1473845727000" />
+                <option name="id" value="3201" />
+                <option name="key" value="ptech-fnp-module:ptech-fnp-module" />
+                <option name="longName" value="ptech-fnp-module" />
+                <option name="name" value="ptech-fnp-module" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470296399000" />
+                <option name="date" value="1473861426000" />
+                <option name="id" value="1805" />
+                <option name="key" value="ptech-soe-api:ptech-soe-api" />
+                <option name="longName" value="ptech-soe-api" />
+                <option name="name" value="ptech-soe-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472473392000" />
+                <option name="date" value="1472473845000" />
+                <option name="id" value="2608" />
+                <option name="key" value="rem-alt-api:rem-alt-api" />
+                <option name="longName" value="rem-alt-api" />
+                <option name="name" value="rem-alt-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472226871000" />
+                <option name="date" value="1472227095000" />
+                <option name="id" value="2520" />
+                <option name="key" value="spotify-proxy-api:spotify-proxy-api" />
+                <option name="longName" value="spotify-proxy-api" />
+                <option name="name" value="spotify-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472227250000" />
+                <option name="date" value="1472227246000" />
+                <option name="id" value="2584" />
+                <option name="key" value="tools-api:tools-api" />
+                <option name="longName" value="tools-api" />
+                <option name="name" value="tools-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468224356000" />
+                <option name="date" value="1472203416000" />
+                <option name="id" value="1251" />
+                <option name="key" value="tracking-api:tracking-api" />
+                <option name="longName" value="tracking-api" />
+                <option name="name" value="tracking-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.2.0-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
+        <entry key="AMD sonar public">
+          <value>
+            <list>
+              <Resource>
+                <option name="creationDate" value="1463722776000" />
+                <option name="date" value="1472479800000" />
+                <option name="id" value="272" />
+                <option name="key" value="amdpic-fe" />
+                <option name="longName" value="AMDPIC UI" />
+                <option name="name" value="AMDPIC UI" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226493000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="The common library without Spring Framework, after Spring comes the Summer !" />
+                <option name="id" value="1270" />
+                <option name="key" value="lu.post.common:common-summer" />
+                <option name="longName" value="Common Summer" />
+                <option name="name" value="Common Summer" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="Generic messaging tools for translations, templates, mailing" />
+                <option name="id" value="1271" />
+                <option name="key" value="lu.post.common:common-messaging" />
+                <option name="longName" value="Generic messaging tools" />
+                <option name="name" value="Generic messaging tools" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468226494000" />
+                <option name="date" value="1468398282000" />
+                <option name="description" value="Tools and service for PlayJava applications" />
+                <option name="id" value="1358" />
+                <option name="key" value="lu.post.common:common-play" />
+                <option name="longName" value="playJava-services" />
+                <option name="name" value="playJava-services" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.4" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467969838000" />
+                <option name="date" value="1470306101000" />
+                <option name="id" value="1189" />
+                <option name="key" value="my:project" />
+                <option name="longName" value="My project" />
+                <option name="name" value="My project" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469715419000" />
+                <option name="date" value="1473403776000" />
+                <option name="id" value="1596" />
+                <option name="key" value="apple-dep-api:apple-dep-api" />
+                <option name="longName" value="apple-dep-api" />
+                <option name="name" value="apple-dep-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1469715134000" />
+                <option name="date" value="1473230761000" />
+                <option name="id" value="1579" />
+                <option name="key" value="apple-dep-proxy-acc:apple-dep-proxy-acc" />
+                <option name="longName" value="apple-dep-proxy-acc" />
+                <option name="name" value="apple-dep-proxy-acc" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472568914000" />
+                <option name="date" value="1472570080000" />
+                <option name="id" value="3127" />
+                <option name="key" value="captcha-api:captcha-api" />
+                <option name="longName" value="captcha-api" />
+                <option name="name" value="captcha-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057097000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client" />
+                <option name="longName" value="datapower-webservice-client" />
+                <option name="name" value="datapower-webservice-client" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="237" />
+                <option name="key" value="lu.post.amdpic:amdpic-api" />
+                <option name="longName" value="amdpic-api" />
+                <option name="name" value="amdpic-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="2" />
+                <option name="key" value="lu.post.datapower:appliance-management-protocol" />
+                <option name="longName" value="appliance-management-protocol" />
+                <option name="name" value="appliance-management-protocol" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="54" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator" />
+                <option name="longName" value="datapower-config-comparator" />
+                <option name="name" value="datapower-config-comparator" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="132" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-common" />
+                <option name="longName" value="datapower-config-comparator-common" />
+                <option name="name" value="datapower-config-comparator-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="116" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-rest-web" />
+                <option name="longName" value="datapower-config-comparator-rest-web" />
+                <option name="name" value="datapower-config-comparator-rest-web" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="188" />
+                <option name="key" value="lu.post.datapower:datapower-config-comparator-scheduler" />
+                <option name="longName" value="datapower-config-comparator-scheduler" />
+                <option name="name" value="datapower-config-comparator-scheduler" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="15" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-client-common" />
+                <option name="longName" value="datapower-webservice-client-common" />
+                <option name="name" value="datapower-webservice-client-common" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="219" />
+                <option name="key" value="lu.post.datapower:datapower-webservice-db" />
+                <option name="longName" value="datapower-webservice-db" />
+                <option name="name" value="datapower-webservice-db" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="102" />
+                <option name="key" value="lu.post.isam:isam-rest-api" />
+                <option name="longName" value="isam-rest-api" />
+                <option name="name" value="isam-rest-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471335846000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1939" />
+                <option name="key" value="lu.post.datapower:rundeck-rest-api" />
+                <option name="longName" value="rundeck-rest-api" />
+                <option name="name" value="rundeck-rest-api" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471335846000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="1974" />
+                <option name="key" value="lu.post.rundeck:rundeck-rest-web" />
+                <option name="longName" value="rundeck-rest-web" />
+                <option name="name" value="rundeck-rest-web" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1463057102000" />
+                <option name="date" value="1471512029000" />
+                <option name="description" value="Parent pom providing dependency and plugin management for applications&#10;&#9;&#9;built with Maven" />
+                <option name="id" value="43" />
+                <option name="key" value="lu.post.datapower:soap-configuration-management" />
+                <option name="longName" value="soap-configuration-management" />
+                <option name="name" value="soap-configuration-management" />
+                <option name="qualifier" value="BRC" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.3-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472046316000" />
+                <option name="date" value="1473669928000" />
+                <option name="id" value="2140" />
+                <option name="key" value="eservices-api:eservices-api" />
+                <option name="longName" value="eservices-api" />
+                <option name="name" value="eservices-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473864117000" />
+                <option name="date" value="1473928115000" />
+                <option name="id" value="3248" />
+                <option name="key" value="itc-ptech-api:itc-ptech-api" />
+                <option name="longName" value="itc-ptech-api" />
+                <option name="name" value="itc-ptech-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1-RC-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471424377000" />
+                <option name="date" value="1473928714000" />
+                <option name="id" value="1986" />
+                <option name="key" value="itc-ptel-api:itc-ptel-api" />
+                <option name="longName" value="itc-ptel-api" />
+                <option name="name" value="itc-ptel-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472039830000" />
+                <option name="date" value="1472563979000" />
+                <option name="id" value="2131" />
+                <option name="key" value="itc-raw-api:itc-raw-api" />
+                <option name="longName" value="itc-raw-api" />
+                <option name="name" value="itc-raw-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.1-RC-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1471506183000" />
+                <option name="date" value="1473669817000" />
+                <option name="id" value="2127" />
+                <option name="key" value="myaccount-api:myaccount-api" />
+                <option name="longName" value="myaccount-api" />
+                <option name="name" value="myaccount-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472226079000" />
+                <option name="date" value="1472226076000" />
+                <option name="id" value="2497" />
+                <option name="key" value="mypost-admin-api:mypost-admin-api" />
+                <option name="longName" value="mypost-admin-api" />
+                <option name="name" value="mypost-admin-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472224068000" />
+                <option name="date" value="1472224062000" />
+                <option name="id" value="2336" />
+                <option name="key" value="mypost-api:mypost-api" />
+                <option name="longName" value="mypost-api" />
+                <option name="name" value="mypost-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.7.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472224353000" />
+                <option name="date" value="1472224854000" />
+                <option name="id" value="2428" />
+                <option name="key" value="mypost-ordering-api:mypost-ordering-api" />
+                <option name="longName" value="mypost-ordering-api" />
+                <option name="name" value="mypost-ordering-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472488663000" />
+                <option name="date" value="1472562482000" />
+                <option name="id" value="2959" />
+                <option name="key" value="mypostid-admin-api:mypostid-admin-api" />
+                <option name="longName" value="mypostid-admin-api" />
+                <option name="name" value="mypostid-admin-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.2.1-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472476098000" />
+                <option name="date" value="1473763600000" />
+                <option name="id" value="2659" />
+                <option name="key" value="mypostid-api:mypostid-api" />
+                <option name="longName" value="mypostid-api" />
+                <option name="name" value="mypostid-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.8.2-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472477067000" />
+                <option name="date" value="1472477064000" />
+                <option name="id" value="2912" />
+                <option name="key" value="mypostid-eai-api:mypostid-eai-api" />
+                <option name="longName" value="mypostid-eai-api" />
+                <option name="name" value="mypostid-eai-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472565075000" />
+                <option name="date" value="1473763525000" />
+                <option name="id" value="3079" />
+                <option name="key" value="mypostid-pdadmin-proxy-api:mypostid-pdadmin-proxy-api" />
+                <option name="longName" value="mypostid-pdadmin-proxy-api" />
+                <option name="name" value="mypostid-pdadmin-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.1.5-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472566446000" />
+                <option name="date" value="1472566521000" />
+                <option name="id" value="3103" />
+                <option name="key" value="orely-proxy-api:orely-proxy-api" />
+                <option name="longName" value="orely-proxy-api" />
+                <option name="name" value="orely-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1467875680000" />
+                <option name="date" value="1472734786000" />
+                <option name="id" value="1130" />
+                <option name="key" value="packup-api:packup-api" />
+                <option name="longName" value="packup-api" />
+                <option name="name" value="packup-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.4.1-RC-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1473845565000" />
+                <option name="date" value="1473845727000" />
+                <option name="id" value="3201" />
+                <option name="key" value="ptech-fnp-module:ptech-fnp-module" />
+                <option name="longName" value="ptech-fnp-module" />
+                <option name="name" value="ptech-fnp-module" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1470296399000" />
+                <option name="date" value="1473926809000" />
+                <option name="id" value="1805" />
+                <option name="key" value="ptech-soe-api:ptech-soe-api" />
+                <option name="longName" value="ptech-soe-api" />
+                <option name="name" value="ptech-soe-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472473392000" />
+                <option name="date" value="1472473845000" />
+                <option name="id" value="2608" />
+                <option name="key" value="rem-alt-api:rem-alt-api" />
+                <option name="longName" value="rem-alt-api" />
+                <option name="name" value="rem-alt-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.4-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472226871000" />
+                <option name="date" value="1472227095000" />
+                <option name="id" value="2520" />
+                <option name="key" value="spotify-proxy-api:spotify-proxy-api" />
+                <option name="longName" value="spotify-proxy-api" />
+                <option name="name" value="spotify-proxy-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.5.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1472227250000" />
+                <option name="date" value="1472227246000" />
+                <option name="id" value="2584" />
+                <option name="key" value="tools-api:tools-api" />
+                <option name="longName" value="tools-api" />
+                <option name="name" value="tools-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="1.0-SNAPSHOT" />
+              </Resource>
+              <Resource>
+                <option name="creationDate" value="1468224356000" />
+                <option name="date" value="1472203416000" />
+                <option name="id" value="1251" />
+                <option name="key" value="tracking-api:tracking-api" />
+                <option name="longName" value="tracking-api" />
+                <option name="name" value="tracking-api" />
+                <option name="qualifier" value="TRK" />
+                <option name="scope" value="PRJ" />
+                <option name="version" value="0.2.0-SNAPSHOT" />
+              </Resource>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
   </component>

@@ -5,6 +5,7 @@
     <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="OPTIMIZE_IMPORTS_ON_THE_FLY" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
+    <EXCLUDED_PACKAGE NAME="com.google.inject.Inject" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Import" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Override annotation" />
 </application>
